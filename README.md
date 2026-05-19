@@ -65,7 +65,7 @@ The bibliographic metadata (Titles, Authors, Source) provided in `data/processed
 
 
 ### 💡 Repository Structure
-
+```
 ├── data/
 │   ├── raw/                # (Ignored by git) Raw WoS export
 │   └── processed/          # Cleaned bibliometric/metadata CSV
@@ -74,3 +74,4 @@ The bibliographic metadata (Titles, Authors, Source) provided in `data/processed
 │   ├── Biblio-keyword-synonyms.R     # Bibliometrix R-based synonym mapping
 │   └── Biblio-keyword-stop.txt       # List of words to exclude
 └── README.md
+```
