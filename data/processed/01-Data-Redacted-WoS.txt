@@ -1,0 +1,5732 @@
+PT J
+AU [Anonymous]
+TI IEEE STANDARD LETTER SYMBOLS FOR SEMICONDUCTOR DEVICES
+SO IEEE TRANSACTIONS ON ELECTRON DEVICES
+PY 1964
+UT WOS:A19642429B00001
+ER
+
+PT J
+AU [Anonymous]
+TI IEEE STANDARD TEST PROCEDURE FOR SEMICONDUCTOR DIODES
+SO IEEE TRANSACTIONS ON ELECTRON DEVICES
+PY 1964
+UT WOS:A19642429B00002
+ER
+
+PT J
+AU MCGEHEE, J
+   HEBLEY, J
+   MAHAFFEY, J
+TI THE MMST COMPUTER-INTEGRATED MANUFACTURING SYSTEM FRAMEWORK
+SO IEEE TRANSACTIONS ON SEMICONDUCTOR MANUFACTURING
+PY 1994
+DI 10.1109/66.286847
+UT WOS:A1994NR23100003
+ER
+
+PT J
+AU Salokhe, VM
+   Majumder, B
+   Islam, MS
+TI Vibration characteristics of a power tiller
+SO JOURNAL OF TERRAMECHANICS
+PY 1995
+DI 10.1016/0022-4898(95)00015-1
+UT WOS:A1995UC59700002
+ER
+
+PT J
+AU Kunz, JC
+   Luiten, GT
+   Fischer, MA
+   Jin, Y
+   Levitt, RE
+TI CE4: Concurrent engineering of product, process, facility, and
+   organization
+SO CONCURRENT ENGINEERING-RESEARCH AND APPLICATIONS
+DE concurrent engineering; product model; process model; facility;
+   organization; CE4 and symbolic model
+PY 1996
+DI 10.1177/1063293X9600400208
+UT WOS:A1996UZ21000008
+ER
+
+PT J
+AU Crighton, JS
+   Carroll, J
+   Fairman, B
+   Haines, J
+   Hinds, M
+TI Atomic spectrometry update - Industrial analysis: Metals, chemicals and
+   advanced materials
+SO JOURNAL OF ANALYTICAL ATOMIC SPECTROMETRY
+PY 1996
+DI 10.1039/ja996110461r
+UT WOS:A1996VZ03600015
+ER
+
+PT J
+AU Card, JP
+   Naimo, M
+   Ziminsky, W
+TI Run-to-run process control of a plasma etch process with neural network
+   modelling
+SO QUALITY AND RELIABILITY ENGINEERING INTERNATIONAL
+DE neural network; dynamic process control; plasma etch; semiconductor
+   fabrication; process control; optimization; integrated circuit;
+   semiconductor; cascade correlation
+PY 1998
+DI 10.1002/(SICI)1099-1638(199807/08)14:4<247::AID-QRE188>3.3.CO;2-M
+UT WOS:000075663600007
+ER
+
+PT J
+AU Hung, YF
+   Chang, CB
+TI Determining safety stocks for production planning in uncertain
+   manufacturing
+SO INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+DE safety stock; production planning; order quotation; on-time delivery;
+   supply chain management; semiconductor manufacturing management
+PY 1999
+DI 10.1016/S0925-5273(98)00124-8
+UT WOS:000078028600008
+ER
+
+PT J
+AU Kuo, W
+   Kim, T
+TI An overview of manufacturing yield and reliability modeling for
+   semiconductor products
+SO PROCEEDINGS OF THE IEEE
+DE fault coverage; package level burn-in; semiconductor yield; wafer level
+   burn-in; yield-reliability relation
+PY 1999
+DI 10.1109/5.775417
+UT WOS:000081518100004
+ER
+
+PT J
+AU Elmirghani, JMH
+   Mouftah, HT
+TI All-optical wavelength conversion: Technologies and applications in DWDM
+   networks
+SO IEEE COMMUNICATIONS MAGAZINE
+PY 2000
+DI 10.1109/35.825645
+UT WOS:000085791200011
+ER
+
+PT J
+AU Chao, HJ
+   Wu, L
+   Zhang, Z
+   Yang, SH
+   Wang, LM
+   Chai, Y
+   Fan, JY
+   Choa, FS
+TI A photonic front-end processor in a WDM ATM multicast switch
+SO JOURNAL OF LIGHTWAVE TECHNOLOGY
+DE cell delineation; optical memory; optical packet switch; optical
+   synchronization; optical VCI-overwrite
+PY 2000
+DI 10.1109/50.827497
+UT WOS:000086205000001
+ER
+
+PT J
+AU Turner, SJ
+   Cai, WT
+   Gan, BP
+TI Distributed supply-chain simulation using high level architecture
+SO TRANSACTIONS OF THE SOCIETY FOR COMPUTER SIMULATION INTERNATIONAL
+DE High Level Architecture (FILA); Run-Time Infrastructure (RTI);
+   Supply-Chain Simulation; semiconductor manufacturing; visualization
+PY 2001
+UT WOS:000176180000006
+ER
+
+PT J
+AU Moon, J
+   Kim, JS
+   Kim, JB
+   Lim, KY
+   Choi, BW
+TI A hardware implementation of distributed network protocol
+SO COMPUTER STANDARDS & INTERFACES
+DE DNP; verilog HDL; FPGA; supervisory control and data acquisition
+   (SCADA); SoC
+PY 2005
+DI 10.1016/S0920-5489(04)00066-2
+UT WOS:000226224400003
+ER
+
+PT J
+AU Onohara, K
+   Awaji, Y
+   Wada, N
+   Kubota, F
+   Kitayama, K
+TI Agile and highly efficient wavelength conversion using highly nonlinear
+   fiber for optical code-labeled packets
+SO IEEE PHOTONICS TECHNOLOGY LETTERS
+DE four-wave mixing (FWM); highly nonlinear fiber (HNLF); optical code
+   (OC); packet switching; wavelength conversion
+PY 2005
+DI 10.1109/LPT.2004.842379
+UT WOS:000227138400037
+ER
+
+PT J
+AU Shacham, A
+   Small, BA
+   Bergman, K
+TI A wide-band photonic packet injection control module for optical packet
+   switching routers
+SO IEEE PHOTONICS TECHNOLOGY LETTERS
+DE multiprocessor interconnection; optical interconnections; optical packet
+   switching (OPS); photonic switching systems; semiconductor optical
+   amplifiers (SOAs)
+PY 2005
+DI 10.1109/LPT.2005.859165
+UT WOS:000233621000093
+ER
+
+PT S
+AU Han, SS
+   Seo, DS
+   Hong, SJ
+TI Modeling and characterization of plasma processes using modular neural
+   network
+SO ADVANCES IN NEURAL NETWORKS - ISNN 2006, PT 3, PROCEEDINGS
+PY 2006
+UT WOS:000239485300148
+ER
+
+PT J
+AU Kirchner, M
+   Schnelle, W
+   Niewa, R
+TI Inverse Perovskites (Eu3O)E with E = Sn, In -
+   Preparation, crystal structures and physical properties
+SO ZEITSCHRIFT FUR ANORGANISCHE UND ALLGEMEINE CHEMIE
+DE oxides; perovskites; rare-earth metals; magnetic susceptibility;
+   electric resistivity; X-ray spectroscopy
+PY 2006
+DI 10.1002/zaac.200500399
+UT WOS:000236084100007
+ER
+
+PT J
+AU Schwartz, JD
+   Wang, WL
+   Rivera, DE
+TI Simulation-based optimization of process control policies for inventory
+   management in supply chains
+SO AUTOMATICA
+DE supply chain management; simulation-based optimization; inventory
+   control; internal model control; model predictive control
+PY 2006
+DI 10.1016/j.automatica.2006.03.019
+UT WOS:000239448800008
+ER
+
+PT J
+AU Renaudier, J
+   Lavigne, B
+   Gallion, P
+   Duan, GH
+TI Study of phase-noise properties and timing jitter of 40-GHz all-optical
+   clock recovery using self-pulsating semiconductor lasers
+SO JOURNAL OF LIGHTWAVE TECHNOLOGY
+DE clock recovery; injection-locked oscillators; semiconductor lasers
+PY 2006
+DI 10.1109/JLT.2006.882432
+UT WOS:000241542700020
+ER
+
+PT J
+AU Liu, H
+   Jiang, Z
+   Fung, RYK
+TI The infrastructure of the timed EOPNs-based multiple-objective real-time
+   scheduling system for 300mm wafer fab
+SO INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+DE infrastructure; extended object-oriented petri nets; multi-objective;
+   real time scheduling; wafer fab
+PY 2007
+DI 10.1080/00207540600595793
+UT WOS:000249858300006
+ER
+
+PT J
+AU Moyne, JR
+   Hajj, H
+   Beatty, K
+   Lewandowski, R
+TI SEMI E133 - The process control system standard: Deriving a software
+   interoperability standard for advanced process control in semiconductor
+   manufacturing
+SO IEEE TRANSACTIONS ON SEMICONDUCTOR MANUFACTURING
+DE advanced process control (APC); fault detection; process control
+   systems; run-to-run control (R2R); service oriented architectures
+PY 2007
+DI 10.1109/TSM.2007.907617
+UT WOS:000250929200010
+ER
+
+PT J
+AU Wiechmann, EP
+   Aqueveque, P
+   Burgos, R
+   Rodríguez, J
+TI On the efficiency of voltage source and current source inverters for
+   high.-power drives
+SO IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS
+DE AC motor drives; efficiency; electric machines; motor drives; multilevel
+   systems; power electronics; pulsewidth modulation (PWM)
+PY 2008
+DI 10.1109/TIE.2008.918625
+UT WOS:000254842200030
+ER
+
+PT J
+AU Hung, MH
+   Wang, TL
+   Hsu, FY
+   Cheng, FT
+TI Development of an Interface C framework for semiconductor e-Diagnostics
+   systems
+SO ROBOTICS AND COMPUTER-INTEGRATED MANUFACTURING
+DE e-Diagnostics; Interface C framework; web services; data isolation;
+   security measures; clustering technology
+PY 2008
+DI 10.1016/j.rcim.2007.02.020
+UT WOS:000254770200007
+ER
+
+PT J
+AU Yan, N
+   Puente, JD
+   Silveira, TG
+   Teixeira, A
+   Ferreira, APS
+   Tangdiongga, F
+   Monteiro, P
+   Koonen, AMJ
+TI Simulation and Experimental Characterization of SOA-MZI-Based
+   Multiwavelength Conversion
+SO JOURNAL OF LIGHTWAVE TECHNOLOGY
+DE All-optical; cross-phase modulation (XPM); multicast; multiwavelength
+   conversion (MWC); semiconductor optical amplifier-Mach-Zehnder
+   interferometer (SOA-MZI); wavelength division multiplexing (WDM)
+PY 2009
+DI 10.1109/JLT.2008.929093
+UT WOS:000263768300015
+ER
+
+PT J
+AU Mai, L
+   Pham, VS
+   Yoon, G
+TI Second-order resonant ZnO-based film bulk acoustic resonator devices and
+   thermal techniques to improve their resonant characteristics
+SO JOURNAL OF VACUUM SCIENCE & TECHNOLOGY A
+DE acoustic resonators; bulk acoustic wave devices; II-VI semiconductors;
+   Q-factor; semiconductor thin films; thin film devices; zinc compounds
+PY 2009
+DI 10.1116/1.3039681
+UT WOS:000264017300010
+ER
+
+PT J
+AU Tzeng, SJ
+   Lu, HH
+   Lin, WI
+   Peng, HC
+   Hsu, SS
+   Wang, HW
+TI A hybrid radio-on-DWDM transport system for PHS/LAN/ITS/WiMAX
+   applications
+SO OPTICAL FIBER TECHNOLOGY
+DE Hybrid radio-on-DWDM; Large effective area fiber; Semiconductor optical
+   amplifier
+PY 2009
+DI 10.1016/j.yofte.2008.06.008
+UT WOS:000264938700003
+ER
+
+PT J
+AU Duan, GH
+   Shen, A
+   Akrout, A
+   Van Dijk, F
+   Lelarge, F
+   Pommereau, F
+   LeGouezigou, O
+   Provost, JG
+   Gariah, H
+   Blache, F
+   Mallecot, F
+   Merghem, K
+   Martinez, A
+   Ramdane, A
+TI High Performance InP-Based Quantum Dash Semiconductor Mode-Locked Lasers
+   for Optical Communications
+SO BELL LABS TECHNICAL JOURNAL
+PY 2009
+DI 10.1002/bltj.20388
+UT WOS:000272135700005
+ER
+
+PT J
+AU Kiefer, F
+   Hlukhyy, V
+   Karttunen, AJ
+   Fässler, TF
+   Gold, C
+   Scheidt, EW
+   Scherer, W
+   Nylén, J
+   Häussermann, U
+TI Synthesis, structure, and electronic properties of 4H-germanium
+SO JOURNAL OF MATERIALS CHEMISTRY
+PY 2010
+DI 10.1039/b921575a
+UT WOS:000274581000023
+ER
+
+PT J
+AU Sen, A
+   Bhatia, D
+   Dogan, K
+TI Applied Materials Uses Operations Research to Design Its Service and
+   Parts Network
+SO INTERFACES
+DE industries; semiconductor; service; facilities-equipment planning;
+   location
+PY 2010
+DI 10.1287/inte.1100.0493
+UT WOS:000280414700001
+ER
+
+PT J
+AU Chen, PL
+   Huang, YC
+   Chang, TY
+TI Fast Test Integration: Toward Plug-and-Play at-Speed Testing of Multiple
+   Clock Domains Based on IEEE Standard 1500
+SO IEEE TRANSACTIONS ON COMPUTER-AIDED DESIGN OF INTEGRATED CIRCUITS AND
+   SYSTEMS
+DE At-speed testing; IEEE standard 1500; multiple clock domain; SoC testing
+PY 2010
+DI 10.1109/TCAD.2010.2055010
+UT WOS:000283453200017
+ER
+
+PT J
+AU Rappaport, TS
+   Murdock, JN
+   Gutierrez, F
+TI State of the Art in 60-GHz Integrated Circuits and Systems for Wireless
+   Communications
+SO PROCEEDINGS OF THE IEEE
+DE Analog-to-digital converters (ADCs); broadband communication; circuits
+   and systems; CMOS integrated circuits; CMOS process; communication
+   standards; IEEE standards; in-package antennas; integrated circuit
+   modeling; low-noise amplifiers (LNAs); millimeter-wave (mm-wave)
+   communication; millimeter-wave integrated circuits; millimeter-wave
+   propagation; mixers; MOSFETs; on-chip antennas; power amplifiers (PAs);
+   radio-frequency integrated circuits (RFICs); semiconductor waveguides;
+   subterahertz wireless; transmission lines; voltage-controlled
+   oscillators (VCOs); 60-GHz communication
+PY 2011
+DI 10.1109/JPROC.2011.2143650
+UT WOS:000293700100005
+ER
+
+PT J
+AU Kim, D
+   Kang, P
+   Cho, S
+   Lee, HJ
+   Doh, S
+TI Machine learning-based novelty detection for faulty wafer detection in
+   semiconductor manufacturing
+SO EXPERT SYSTEMS WITH APPLICATIONS
+DE Novelty detection; Faulty wafer detection; Semiconductor manufacturing;
+   Virtual metrology; Dimensionality reduction
+PY 2012
+DI 10.1016/j.eswa.2011.09.088
+UT WOS:000299583700020
+ER
+
+PT J
+AU Mills, A
+   Hill, C
+   Robertson, PKJ
+TI Overview of the current ISO tests for photocatalytic materials
+SO JOURNAL OF PHOTOCHEMISTRY AND PHOTOBIOLOGY A-CHEMISTRY
+DE Photocatalysis; ISO; Standards; Titania; UV
+PY 2012
+DI 10.1016/j.jphotochem.2012.02.024
+UT WOS:000304688100002
+ER
+
+PT J
+AU Baly, R
+   Hajj, H
+TI Wafer Classification Using Support Vector Machines
+SO IEEE TRANSACTIONS ON SEMICONDUCTOR MANUFACTURING
+DE Data models; data processing; multivariable systems; nonlinear systems;
+   prediction methods; semiconductor defects; yield estimation
+PY 2012
+DI 10.1109/TSM.2012.2196058
+UT WOS:000314401300012
+ER
+
+PT J
+AU Yu, JB
+TI Semiconductor Manufacturing Process Monitoring Using Gaussian Mixture
+   Model and Bayesian Method With Local and Nonlocal Information
+SO IEEE TRANSACTIONS ON SEMICONDUCTOR MANUFACTURING
+DE Bayesian inference; fault detection; Gaussian mixture model (GMM); local
+   and nonlocal preserving projection (LNPP); semiconductor manufacturing
+   process
+PY 2012
+DI 10.1109/TSM.2012.2192945
+UT WOS:000314401300021
+ER
+
+PT J
+AU Vesapogu, JM
+   Peddakotla, S
+   Kuppa, SRA
+TI Harmonic analysis and FPGA implementation of SHE controlled three phase
+   CHB 11-level inverter in MV drives using deterministic and stochastic
+   optimization techniques
+SO SPRINGERPLUS
+DE C-GA Technique; CHB inverter; FPGA based Xilinx's Spartan-3A DSP
+   controller; MPSO technique; NR technique; Selective harmonic elimination
+   technique
+PY 2013
+DI 10.1186/2193-1801-2-370
+UT WOS:000209465000168
+ER
+
+PT J
+AU Bloh, JZ
+   Dillert, R
+   Bahnemann, DW
+TI Zinc Oxide Photocatalysis: Influence of Iron and Titanium Doping and
+   Origin of the Optimal Doping Ratio
+SO CHEMCATCHEM
+DE models; nanostructures; photochemistry; zinc
+PY 2013
+DI 10.1002/cctc.201200558
+UT WOS:000315416200023
+ER
+
+PT J
+AU Wu, JZ
+TI Inventory write-down prediction for semiconductor manufacturing
+   considering inventory age, accounting principle, and product structure
+   with real settings
+SO COMPUTERS & INDUSTRIAL ENGINEERING
+DE Semiconductor manufacturing; Supply chain management; Inventory age;
+   Inventory write-down; Accounting principle; Bill of material
+PY 2013
+DI 10.1016/j.cie.2011.11.020
+UT WOS:000318136100013
+ER
+
+PT J
+AU Zhao, JH
+   Liu, Q
+   Cui, SB
+TI Existence of Solutions for the Debye-Huckel System with Low Regularity
+   Initial Data
+SO ACTA APPLICANDAE MATHEMATICAE
+DE Debye-Huckel sysm; Low regularity; Global existence; Blow up
+PY 2013
+DI 10.1007/s10440-012-9777-0
+UT WOS:000318366200001
+ER
+
+PT J
+AU Lin, KC
+   Chiou, HK
+   Wu, PC
+   Chen, WH
+   Ko, CL
+   Juang, YZ
+TI 2.4-GHz Complementary Metal Oxide Semiconductor Power Amplifier Using
+   High-Quality Factor Wafer-Level Bondwire Spiral Inductor
+SO IEEE TRANSACTIONS ON COMPONENTS PACKAGING AND MANUFACTURING TECHNOLOGY
+DE Bondwire loop; complementary metal oxide semiconductor (CMOS); power
+   added efficiency (PAE); power amplifier (PA); quality factor (Q); spiral
+   inductor
+PY 2013
+DI 10.1109/TCPMT.2012.2227260
+UT WOS:000322714100004
+ER
+
+PT J
+AU Fan, J
+   Carrillo-Cabrera, W
+   Akselrud, L
+   Antonyshyn, I
+   Chen, LD
+   Grin, Y
+TI New Monoclinic Phase at the Composition Cu2SnSe3
+   and Its Thermoelectric Properties
+SO INORGANIC CHEMISTRY
+PY 2013
+DI 10.1021/ic401317k
+UT WOS:000326319800049
+ER
+
+PT J
+AU Masum, H
+   Lackman, R
+   Bartleson, K
+TI Developing global health technology standards: what can other industries
+   teach us?
+SO GLOBALIZATION AND HEALTH
+DE Global health; Standards; Interoperability; Affordability; Interface;
+   Modularity; Diagnostics
+PY 2013
+DI 10.1186/1744-8603-9-49
+UT WOS:000326539400001
+ER
+
+PT J
+AU Bala, BD
+   Rahim, MKA
+   Murad, NA
+TI Small electrical metamaterial antenna based on coupled electric field
+   resonator with enhanced bandwidth
+SO ELECTRONICS LETTERS
+DE annealing; gallium compounds; high-temperature techniques; III-V
+   semiconductors; ion implantation; magnesium; power semiconductor
+   devices; semiconductor doping; wide band gap semiconductors; GaN:Mg;
+   activation ratio; high-temperature annealing technique; high-voltage
+   GaN-based power devices; p-type doping
+PY 2014
+DI 10.1049/el.2013.3884
+UT WOS:000331280100006
+ER
+
+PT J
+AU Yeh, CI
+   Feng, WS
+   Hsu, CY
+TI 0.9-10.6 GHz UWB mixer using current bleeding for multi-band application
+SO ELECTRONICS LETTERS
+DE correlation methods; orthogonal codes; transmitting antennas; trellis
+   codes; space-time block codes; high-order differential space-time block
+   code; orthogonal codes; transmit antennas; DSTBC; space-time diversity;
+   blind detection; differential detection; differential encoder; trellis
+   diagram; correlation; Viterbi algorithm; coherent STBC scheme
+PY 2014
+DI 10.1049/el.2013.3804
+UT WOS:000331280100034
+ER
+
+PT J
+AU Sajin, JS
+   Praveen, G
+   Habiba, HU
+   Rao, PH
+TI Extremely compact phase delay line with CTSRR loaded transmission line
+SO ELECTRONICS LETTERS
+DE CMOS analogue integrated circuits; microwave integrated circuits;
+   microwave mixers; UHF integrated circuits; UHF mixers; UWB mixer;
+   ultrawideband applications; multiband application; down-conversion
+   mixer; complementary metal oxide semiconductor; VIS radiofrequency CMOS
+   technology; IEEE wireless fidelity; Wi-Fi; global systems for mobile;
+   GSM; worldwide interoperability for microwave access; WiMAX;
+   double-balanced cell architecture; current-bleeding method; conversion
+   gain; intermediate frequency; local oscillator; frequency 0; 9 GHz to
+   10; 6 GHz; size 0; 25 mum; noise figure 13; 1 dB; frequency 100 MHz;
+   power 9; 8 mW; voltage 1; 8 V
+PY 2014
+DI 10.1049/el.2013.3709
+UT WOS:000331280100037
+ER
+
+PT J
+AU Wei, LP
+   Doughan, S
+   Han, Y
+   DaCosta, MV
+   Krull, UJ
+   Ho, D
+TI The Intersection of CMOS Microsystems and Upconversion Nanoparticles for
+   Luminescence Bioimaging and Bioassays
+SO SENSORS
+DE upconversion nanoparticle; CMOS; bioimaging; bioassays; biosensors;
+   luminescence resonance energy transfer; fluorescence; multiplexing
+PY 2014
+DI 10.3390/s140916829
+UT WOS:000343106600067
+ER
+
+PT J
+AU Hsu, CY
+TI Clustering Ensemble for Identifying Defective Wafer Bin Map in
+   Semiconductor Manufacturing
+SO MATHEMATICAL PROBLEMS IN ENGINEERING
+PY 2015
+DI 10.1155/2015/707358
+UT WOS:000358222500001
+ER
+
+PT J
+AU Matsuo, H
+TI Implications of the Tohoku earthquake for Toyota's coordination
+   mechanism: Supply chain disruption of automotive semiconductors
+SO INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+DE Supply chain management; Disruption risk management; Automotive
+   electronics; Toyota Production System
+PY 2015
+DI 10.1016/j.ijpe.2014.07.010
+UT WOS:000349879200019
+ER
+
+PT J
+AU Lowe, JJ
+   Mason, SJ
+TI Integrated Semiconductor Supply Chain Production Planning
+SO IEEE TRANSACTIONS ON SEMICONDUCTOR MANUFACTURING
+DE Production planning; scheduling; mathematical programming; inventory
+   management; inventory control
+PY 2016
+DI 10.1109/TSM.2016.2544202
+UT WOS:000375802900006
+ER
+
+PT J
+AU DiMase, D
+   Collier, ZA
+   Carlson, J
+   Gray, RB
+   Linkov, I
+TI Traceability and Risk Analysis Strategies for Addressing Counterfeit
+   Electronics in Supply Chains for Complex Systems
+SO RISK ANALYSIS
+DE Counterfeit; semiconductors; supply chain risk management; traceability
+PY 2016
+DI 10.1111/risa.12536
+UT WOS:000388984900002
+ER
+
+PT J
+AU Mi, CC
+   Buja, G
+   Choi, SY
+   Rim, CT
+TI Modern Advances in Wireless Power Transfer Systems for Roadway Powered
+   Electric Vehicles
+SO IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS
+DE Roadway powered electric vehicle (RPEV); wireless electric vehicle (WEV)
+PY 2016
+DI 10.1109/TIE.2016.2574993
+UT WOS:000384641900054
+ER
+
+PT S
+AU Chiang, L
+   Lu, B
+   Castillo, I
+TI Big Data Analytics in Chemical Engineering
+SO ANNUAL REVIEW OF CHEMICAL AND BIOMOLECULAR ENGINEERING, VOL 8
+DE big data analytics; Internet of things; data-driven modeling; Industry
+   4.0; machine learning
+PY 2017
+DI 10.1146/annurev-chembioeng-060816-101555
+UT WOS:000404165000005
+ER
+
+PT B
+AU Lee, CKM
+   Cao, Y
+   Ng, KH
+TI Big Data Analytics for Predictive Maintenance Strategies
+SO SUPPLY CHAIN MANAGEMENT IN THE BIG DATA ERA
+PY 2017
+DI 10.4018/978-1-5225-0956-1.ch004
+UT WOS:000424139600005
+ER
+
+PT J
+AU Ziarnetzky, T
+   Mönch, L
+   Uzsoy, R
+TI Rolling horizon, multi-product production planning with chance
+   constraints and forecast evolution for wafer fabs
+SO INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+DE production planning; semiconductor manufacture; simulation; rolling
+   horizon; forecast evolution
+PY 2018
+DI 10.1080/00207543.2018.1478461
+UT WOS:000445478600009
+ER
+
+PT J
+AU Uzsoy, R
+   Fowler, JW
+   Mönch, L
+TI A survey of semiconductor supply chain models Part II: demand planning,
+   inventory management, and capacity planning
+SO INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+DE supply chain management; semiconductor industry; capacity planning;
+   inventory management; demand uncertainty
+PY 2018
+DI 10.1080/00207543.2018.1424363
+UT WOS:000441866600009
+ER
+
+PT J
+AU Hou, Z
+   Li, HJ
+   Chen, S
+   Li, BJ
+   Lu, YX
+   Ji, SC
+TI Development of a novel 20kV 0.1Hz very low frequency cosine-rectangular
+   voltage generator for multi-functional insulation testing of MV power
+   cables
+SO IET GENERATION TRANSMISSION & DISTRIBUTION
+DE partial discharges; power cable insulation; XLPE insulation; power cable
+   testing; IEEE standards; very low frequency cosine-rectangular voltage
+   generator; multifunctional insulation testing; very low frequency CRVG;
+   partial discharge test; standard medium voltage cross-linked
+   polyethylene power cable; standard MV cross-linked polyethylene power
+   cable; cosinusoidal polarity reversing process; L-C series resonance;
+   discharging switch; charging switch; insulated gate bipolar transistor
+   series-connected semiconductor switch; laboratory prototype; IEEE
+   standard 400; 2; PD detection; voltage 20 kV; frequency 0; 1 Hz
+PY 2018
+DI 10.1049/iet-gtd.2016.1097
+UT WOS:000424130400001
+ER
+
+PT J
+AU Mensík, M
+   Toman, P
+   Bielecka, U
+   Bartkowiak, W
+   Pfleger, J
+   Paruzel, B
+TI On the methodology of the determination of charge concentration
+   dependent mobility from organic field-effect transistor characteristics
+SO PHYSICAL CHEMISTRY CHEMICAL PHYSICS
+PY 2018
+DI 10.1039/c7cp06423c
+UT WOS:000423505500018
+ER
+
+PT J
+AU Arian, A
+   Jannesari, A
+TI Power-efficient burst-mode RF transmitter based on reference-adaptive
+   multilevel pulse-width modulation
+SO INTERNATIONAL JOURNAL OF CIRCUIT THEORY AND APPLICATIONS
+DE burst-mode operation; coding efficiency; efficiency optimization; power
+   amplifier (PA); power-efficient radio frequency (RF) transmitter;
+   pulse-width modulation (PWM)
+PY 2018
+DI 10.1002/cta.2394
+UT WOS:000427475600006
+ER
+
+PT J
+AU Wright, FD
+   Conte, TM
+TI Standards: Roadmapping Computer Technology Trends Enlightens Industry
+SO COMPUTER
+PY 2018
+DI 10.1109/MC.2018.2701628
+UT WOS:000436404600014
+ER
+
+PT J
+AU Maggipinto, M
+   Terzi, M
+   Masiero, C
+   Beghi, A
+   Susto, GA
+TI A Computer Vision-Inspired Deep Learning Architecture for Virtual
+   Metrology Modeling With 2-Dimensional Datale
+SO IEEE TRANSACTIONS ON SEMICONDUCTOR MANUFACTURING
+DE Advanced process control; deep learning; etching; industry 4.0; neural
+   networks; optical emission spectroscopy; semiconductor manufacturing;
+   soft sensor; virtual metrology
+PY 2018
+DI 10.1109/TSM.2018.2849206
+UT WOS:000440193200009
+ER
+
+PT J
+AU Park, C
+   Park, SH
+   Kim, SB
+TI STRUCTURED REGULARIZATION MODELING FOR VIRTUAL METROLOGY IN
+   SEMICONDUCTOR MANUFACTURING PROCESSES
+SO INTERNATIONAL JOURNAL OF INDUSTRIAL ENGINEERING-THEORY APPLICATIONS AND
+   PRACTICE
+DE feature selection; process control; machine learning; sparse
+   regularization; virtual metrology
+PY 2019
+UT WOS:000510852900001
+ER
+
+PT J
+AU Chen, CH
+   Parashar, P
+   Akbar, C
+   Fu, SM
+   Syu, MY
+   Lin, A
+TI Physics-Prior Bayesian Neural Networks in Semiconductor Processing
+SO IEEE ACCESS
+DE Artificial intelligence; manufacturing; physics; Bayesian methods;
+   intelligent manufacturing systems
+PY 2019
+DI 10.1109/ACCESS.2019.2940130
+UT WOS:000487541800001
+ER
+
+PT J
+AU Zhang, C
+   Gao, XW
+   Li, Y
+   Feng, LW
+TI Fault Detection Strategy Based on Weighted Distance of k Nearest
+   Neighbors for Semiconductor Manufacturing Processes
+SO IEEE TRANSACTIONS ON SEMICONDUCTOR MANUFACTURING
+DE Batch processes; fault detection; k nearest neighbors; multimode
+   processes; weighted parameter
+PY 2019
+DI 10.1109/TSM.2018.2857818
+UT WOS:000457366700011
+ER
+
+PT J
+AU Lee, CY
+   Tsai, TL
+TI Data science framework for variable selection, metrology prediction, and
+   process control in TFT-LCD manufacturing
+SO ROBOTICS AND COMPUTER-INTEGRATED MANUFACTURING
+DE Data science; Feature selection; Metrology prediction; Yield
+   improvement; TFT-LCD manufacturing
+PY 2019
+DI 10.1016/j.rcim.2018.07.013
+UT WOS:000449129100008
+ER
+
+PT J
+AU Gomez, FRI
+   De Leon, MTG
+TI A study of zero-if double-balanced mixer for wimax receivers
+SO HELIYON
+DE Electrical engineering
+PY 2019
+DI 10.1016/j.heliyon.2019.e01741
+UT WOS:000473561400171
+ER
+
+PT J
+AU Hsieh, CC
+   Liu, CY
+   Wu, PY
+   Jeng, AP
+   Wang, RG
+   Chou, CC
+TI Building information modeling services reuse for facility management for
+   semiconductor fabrication plants
+SO AUTOMATION IN CONSTRUCTION
+DE Building information modeling; Model-driven architecture; Facility
+   management
+PY 2019
+DI 10.1016/j.autcon.2018.12.023
+UT WOS:000463309900020
+ER
+
+PT J
+AU Purandare, S
+   Zhu, JL
+   Zhou, RJ
+   Popescu, G
+   Schwing, A
+   Goddard, LL
+TI Optical inspection of nanoscale structures using a novel machine
+   learning based synthetic image generation algorithm
+SO OPTICS EXPRESS
+PY 2019
+DI 10.1364/OE.27.017743
+UT WOS:000472621000028
+ER
+
+PT J
+AU Hejazi, D
+   Liu, SJ
+   Ostadabbas, S
+   Kar, S
+TI Transition Metal Dichalcogenide Thin Films for Precise Optical
+   Wavelength Estimation Using Bayesian Inference
+SO ACS APPLIED NANO MATERIALS
+DE 2D materials; layered materials; Bayesian inference; distribution
+   estimation; machine learning; semiconductors; transition metal
+   dichalcogenides (TMDs); wavelength estimation
+PY 2019
+DI 10.1021/acsanm.9b00489
+UT WOS:000477917700007
+ER
+
+PT J
+AU Kim, D
+   Kang, S
+TI Effect of Irrelevant Variables on Faulty Wafer Detection in
+   Semiconductor Manufacturing
+SO ENERGIES
+DE faulty wafer detection; semiconductor manufacturing; irrelevant
+   variable; supervised learning; prediction model
+PY 2019
+DI 10.3390/en12132530
+UT WOS:000477034700072
+ER
+
+PT J
+AU Ul Haq, A
+   Djurdjanovic, D
+TI Robust Control of Overlay Errors in Photolithography Processes
+SO IEEE TRANSACTIONS ON SEMICONDUCTOR MANUFACTURING
+DE Multi-stage control; overlay control; photolithography; robust control
+PY 2019
+DI 10.1109/TSM.2019.2913391
+UT WOS:000476790300008
+ER
+
+PT J
+AU Fu, WH
+   Chien, CF
+TI UNISON data-driven intermittent demand forecast framework to empower
+   supply chain resilience and an empirical study in electronics
+   distribution
+SO COMPUTERS & INDUSTRIAL ENGINEERING
+DE Demand forecast; Intermittent demand; UNISON data-driven framework;
+   Supply chain management; Artificial intelligence; Global manufacturing
+   networks
+PY 2019
+DI 10.1016/j.cie.2019.07.002
+UT WOS:000482244100071
+ER
+
+PT J
+AU Tsutsui, T
+   Matsuzawa, T
+TI Virtual Metrology Model Robustness Against Chamber Condition Variation
+   Using Deep Learning
+SO IEEE TRANSACTIONS ON SEMICONDUCTOR MANUFACTURING
+DE Feature extraction; Training; Image recognition; Convolution; Metrology;
+   Semiconductor device modeling; Deep learning; Semiconductor
+   manufacturing; etching; advanced process control; industry 4; 0; machine
+   learning; deep learning; neural networks; optical emission spectroscopy;
+   soft sensor; virtual metrology
+PY 2019
+DI 10.1109/TSM.2019.2931328
+UT WOS:000502719000012
+ER
+
+PT J
+AU Ma, SL
+   Wang, Y
+   Chen, XY
+   Wu, TX
+   Wang, X
+   Tang, HW
+   Yao, YT
+   Yu, H
+   Sheng, YC
+   Ma, JY
+   Ren, JY
+   Bao, WZ
+TI Analog Integrated Circuits Based on Wafer-Level Two-Dimensional
+   MoS2 Materials With Physical and SPICE Model
+SO IEEE ACCESS
+DE Molybdenum; Sulfur; Computational modeling; Integrated circuit modeling;
+   Semiconductor device modeling; Two dimensional displays; Metals;
+   Two-dimensional (2D) material; wafer-level MoS&#8322; SPICE model;
+   Schottky contact; physical model; analog integrated circuits
+PY 2020
+DI 10.1109/ACCESS.2020.3034321
+UT WOS:000589782200001
+ER
+
+PT J
+AU Ma, YC
+TI Compiler-Directed Parallelism Scaling Framework for Performance
+   Constrained Energy Optimization
+SO IEEE ACCESS
+DE Power gating; instruction-level parallelism; energy efficiency; VLIW;
+   static energy; leakage power; dark silicon
+PY 2020
+DI 10.1109/ACCESS.2019.2961568
+UT WOS:000549551400011
+ER
+
+PT J
+AU Lee, KB
+   Kim, CO
+TI Recurrent feature-incorporated convolutional neural network for virtual
+   metrology of the chemical mechanical planarization process
+SO JOURNAL OF INTELLIGENT MANUFACTURING
+DE Chemical mechanical planarization; Advanced process control; Virtual
+   metrology; Recurrent neural network; Convolutional neural network
+PY 2020
+DI 10.1007/s10845-018-1437-4
+UT WOS:000512004500006
+ER
+
+PT J
+AU Ferlini, F
+   Seman, LO
+   Bezerra, EA
+TI Enabling ISO 26262 Compliance with Accelerated Diagnostic Coverage
+   Assessment
+SO ELECTRONICS
+DE fault diagnosis; ISO standards; safety; vehicle safety; ISO 26262; fault
+   injection
+PY 2020
+DI 10.3390/electronics9050732
+UT WOS:000549854600031
+ER
+
+PT J
+AU Samadaei, E
+   Salehi, A
+   Iranian, M
+   Pouresmaeil, E
+TI Single DC Source Multilevel Inverter with Changeable Gains and Levels
+   for Low-Power Loads
+SO ELECTRONICS
+DE boost inverter; multilevel inverter; power electronics; single source;
+   low components
+PY 2020
+DI 10.3390/electronics9060937
+UT WOS:000553614500001
+ER
+
+PT J
+AU Huang, YF
+   Lu, LH
+TI The differentiated and ambidextrous influence of network flexibility on
+   exploratory and exploitative partnership formations
+SO INTERNATIONAL JOURNAL OF PHYSICAL DISTRIBUTION & LOGISTICS MANAGEMENT
+DE Configuration flexibility; Manufacturing flexibility; Network
+   flexibility; Ambidextrous strategy; Supply chain; Partnership formations
+PY 2020
+DI 10.1108/IJPDLM-02-2019-0057
+UT WOS:000548037900001
+ER
+
+PT J
+AU Azamfar, M
+   Li, X
+   Lee, J
+TI Deep Learning-Based Domain Adaptation Method for Fault Diagnosis in
+   Semiconductor Manufacturing
+SO IEEE TRANSACTIONS ON SEMICONDUCTOR MANUFACTURING
+DE Fault diagnosis; Semiconductor device modeling; Manufacturing; Data
+   models; Feature extraction; Convolution; Machine learning; Quality
+   inspection; semiconductor manufacturing; deep learning; fault diagnosis;
+   domain adaptation
+PY 2020
+DI 10.1109/TSM.2020.2995548
+UT WOS:000557354200016
+ER
+
+PT J
+AU Littlejohns, CG
+   Rowe, DJ
+   Du, H
+   Li, K
+   Zhang, WW
+   Cao, W
+   Bucio, TD
+   Yan, XZ
+   Banakar, M
+   Tran, D
+   Liu, SH
+   Meng, FF
+   Chen, BG
+   Qi, YL
+   Chen, X
+   Nedeljkovic, M
+   Mastronardi, L
+   Maharjan, R
+   Bohora, S
+   Dhakal, A
+   Crowe, I
+   Khurana, A
+   Balram, KC
+   Zagaglia, L
+   Floris, F
+   O'Brien, P
+   Di Gaetano, E
+   Chong, HMH
+   Gardes, FY
+   Thomson, DJ
+   Mashanovich, GZ
+   Sorel, M
+   Reed, GT
+TI CORNERSTONE's Silicon Photonics Rapid Prototyping Platforms: Current
+   Status and Future Outlook
+SO APPLIED SCIENCES-BASEL
+DE silicon photonics; silicon-on-insulator; waveguides; modulators;
+   mid-infrared; silicon nitride; integration; multi-project-wafer; rapid
+   prototyping; foundry; fabrication; germanium-on-silicon; suspended
+   silicon; MEMS
+PY 2020
+DI 10.3390/app10228201
+UT WOS:000594928400001
+ER
+
+PT J
+AU Kopp, D
+   Hassoun, M
+   Kalir, A
+   Mönch, L
+TI SMT2020-A Semiconductor Manufacturing Testbed
+SO IEEE TRANSACTIONS ON SEMICONDUCTOR MANUFACTURING
+DE Discrete-event simulation; semiconductor manufacturing; testbed;
+   production planning and control; simulation experiments
+PY 2020
+DI 10.1109/TSM.2020.3001933
+UT WOS:000587683500005
+ER
+
+PT J
+AU Acharya, S
+   Anurag, A
+   Chattopadhyay, R
+   Rengarajan, S
+   Prabowo, Y
+   Bhattacharya, S
+TI A 10-kV SiC-MOSFET (Gen-3) Half-Bridge Module-Based Isolated
+   Bidirectional DC-DC Converter Block for Medium-Voltage High-Power
+   Applications
+SO IEEJ TRANSACTIONS ON ELECTRICAL AND ELECTRONIC ENGINEERING
+DE SiC&#8208; MOSFETs; dual active bridge; high&#8208; frequency
+   transformer; wide&#8208; bandgap (WBG) devices
+PY 2021
+DI 10.1002/tee.23275
+UT WOS:000584576800001
+ER
+
+PT J
+AU Laghari, SU
+   Manickam, S
+   Al-Ani, AK
+   Ul Rehman, S
+   Karuppayah, S
+TI SECS/GEMsec: A Mechanism for Detection and Prevention of Cyber-Attacks
+   on SECS/GEM Communications in Industry 4.0 Landscape
+SO IEEE ACCESS
+DE Security; Protocols; Authentication; Machine-to-machine communications;
+   Computer security; Force; Standards; Cybersecurity; DoS-attack; IIoT;
+   industry 4.0; M2M; machine-to-machine communications; SECS; GEM
+PY 2021
+DI 10.1109/ACCESS.2021.3127515
+UT WOS:000721984800001
+ER
+
+PT J
+AU Amsaad, F
+   Oun, A
+   Niamat, MY
+   Razaque, A
+   Kose, S
+   Mahmoud, M
+   Alasmary, W
+   Alsolami, F
+TI Enhancing the Performance of Lightweight Configurable PUF for Robust IoT
+   Hardware-Assisted Security
+SO IEEE ACCESS
+DE Security; Reliability; Physical unclonable function; Internet of Things;
+   Hardware; Encoding; Fabrication; Lightweight hardware-assisted security;
+   trusted Internet of Thing (IoT) consumer electronic devices;
+   configurable ROPUF; PUF reliability; PUF aging; ISO standards
+PY 2021
+DI 10.1109/ACCESS.2021.3117240
+UT WOS:000706829000001
+ER
+
+PT J
+AU Baruta, S
+   Ur, CA
+   Sima, O
+   Suliman, G
+   Turturica, GV
+   Iancu, V
+TI CHARACTERIZATION OF THE SEGMENTED HIGH-PURITY GERMANIUM CLOVER DETECTOR
+   FROM THE ELIADE ARRAY AT ELI-NP
+SO UNIVERSITY POLITEHNICA OF BUCHAREST SCIENTIFIC BULLETIN-SERIES A-APPLIED
+   MATHEMATICS AND PHYSICS
+DE Segmented clover germanium detector; digital and analog acquisition
+   systems; efficiency; energy resolution
+PY 2021
+UT WOS:000664302900023
+ER
+
+PT J
+AU Ashraf, M
+   Nazih, Y
+   Alsokhiry, F
+   Ahmed, KH
+   Abdel-Khalik, AS
+   Al-Turki, Y
+TI A New Hybrid Dual Active Bridge Modular Multilevel Based DC-DC Converter
+   for HVDC Networks
+SO IEEE ACCESS
+DE HVDC transmission; DC-DC power converters; Power conversion; Converters;
+   Topology; Capacitors; Load flow; Modular multilevel converter; dc-dc
+   power converters; HVDC; power control; bidirectional power flow;
+   control-hardware-in-the-loop (CHiL)
+PY 2021
+DI 10.1109/ACCESS.2021.3074543
+UT WOS:000645038400001
+ER
+
+PT J
+AU Allal-Chérif, O
+   Simón-Moya, V
+   Ballester, ACC
+TI Intelligent purchasing: How artificial intelligence can redefine the
+   purchasing function
+SO JOURNAL OF BUSINESS RESEARCH
+DE Artificial intelligence; Purchasing function; Machine learning; Matching
+   systems; Decision-making; Collaborative project management
+PY 2021
+DI 10.1016/j.jbusres.2020.11.050
+UT WOS:000605608800007
+ER
+
+PT S
+AU Ludwig, M
+   Purice, D
+   Lippmann, B
+   Bette, AC
+   Lenz, C
+TI Towards Fully Automated Verification of Semiconductor Technologies
+SO ARTIFICIAL INTELLIGENCE FOR DIGITISING INDUSTRY: Applications
+DE industrial artificial intelligence; failure analysis;
+   anti-counterfeiting; hardware trust; verification and validation;
+   semiconductor technology analysis; image processing; convolutional
+   neural network; semantic segmentation; pattern recognition; supervised
+   learning; deep learning
+PY 2021
+UT WOS:000893595200012
+ER
+
+PT J
+AU Wali, A
+   Kundu, S
+   Arnold, AJ
+   Zhao, GW
+   Basu, K
+   Das, S
+TI Satisfiability Attack-Resistant Camouflaged Two-Dimensional
+   Heterostructure Devices
+SO ACS NANO
+DE reverse engineering; camouflaging; two-dimensional materials; integrated
+   circuit; security
+PY 2021
+DI 10.1021/acsnano.0c10651
+UT WOS:000623061800123
+ER
+
+PT J
+AU Nam, H
+TI A case study on the application of process abnormal detection process
+   using big data in smart factory
+SO KOREAN JOURNAL OF APPLIED STATISTICS
+DE smart factory; semiconductor manufacturing process; equipment sensor
+   data; abnormality detection process; functional data analysis
+PY 2021
+DI 10.5351/KJAS.2021.34.1.099
+UT WOS:000668580500007
+ER
+
+PT J
+AU Fathololoumi, S
+   Hui, D
+   Jadhav, S
+   Chen, J
+   Nguyen, K
+   Sakib, MN
+   Li, Z
+   Mahalingam, H
+   Amiralizadeh, S
+   Tang, NN
+   Potluri, H
+   Montazeri, M
+   Frish, H
+   Defrees, RA
+   Seibert, C
+   Krichevsky, A
+   Doylend, JK
+   Heck, J
+   Venables, R
+   Dahal, A
+   Awujoola, A
+   Vardapetyan, A
+   Kaur, G
+   Cen, M
+   Kulkarni, V
+   Islam, SS
+   Spreitzer, RL
+   Garag, S
+   Alduino, AC
+   Chiou, RK
+   Kamyab, L
+   Gupta, S
+   Xie, B
+   Appleton, RS
+   Hollingsworth, S
+   McCargar, S
+   Akulova, Y
+   Brown, KM
+   Jones, R
+   Zhu, D
+   Liljeberg, T
+   Liao, L
+TI 1.6 Tbps Silicon Photonics Integrated Circuit and 800 Gbps Photonic
+   Engine for Switch Co-Packaging Demonstration
+SO JOURNAL OF LIGHTWAVE TECHNOLOGY
+DE Optical switches; Integrated circuits; Integrated optics; High-speed
+   optical techniques; Optical fibers; Optical transmitters; Photonics;
+   Integrated optoelectronics; optical fiber communication; optical
+   receivers; optical modulation; semiconductor laser arrays; silicon
+   photonics
+PY 2021
+DI 10.1109/JLT.2020.3039218
+UT WOS:000616310600036
+ER
+
+PT J
+AU Park, H
+   Choi, JE
+   Kim, D
+   Hong, SJ
+TI Artificial Immune System for Fault Detection and Classification of
+   Semiconductor Equipment
+SO ELECTRONICS
+DE artificial immune system; fault detection; data mining; decision making;
+   semiconductor equipment
+PY 2021
+DI 10.3390/electronics10080944
+UT WOS:000644008100001
+ER
+
+PT J
+AU Yang, H
+   Rao, P
+   Simpson, T
+   Lu, Y
+   Witherell, P
+   Nassar, AR
+   Reutzel, E
+   Kumara, S
+TI Six-Sigma Quality Management of Additive Manufacturing
+SO PROCEEDINGS OF THE IEEE
+DE Mass customization; Quality management; Laser beams; Solid modeling;
+   Three-dimensional printing; Process control; Analytical models; Six
+   sigma; Additive manufacturing (AM); artificial intelligence (AI); data
+   analytics; engineering design; quality management; sensor systems;
+   simulation modeling
+PY 2021
+DI 10.1109/JPROC.2020.3034519
+UT WOS:000633393800003
+ER
+
+PT J
+AU Paul, SD
+   Bhunia, S
+TI SILVerIn: Systematic Integrity Verification of Printed Circuit Board
+   Using JTAG Infrastructure
+SO ACM JOURNAL ON EMERGING TECHNOLOGIES IN COMPUTING SYSTEMS
+DE PCB; JTAG; boundary scan; BSA; PUF; hamming; FPGA; NIST; counterfeit;
+   intrinsic; CRP; authentication; uniqueness; randomness; robustness; HaHa
+   board; signature; tampering; modeling attack
+PY 2021
+DI 10.1145/3460232
+UT WOS:000754598700019
+ER
+
+PT J
+AU Braganca, WA Jr
+   Kim, K
+TI Characterization of laser beams: theory and application in
+   laser-assisted bonding process
+SO OPTICAL ENGINEERING
+DE beam characterization; beam profiling; International Organization for
+   Standardization; theory; application; laser-assisted bonding
+PY 2021
+DI 10.1117/1.OE.60.6.060801
+UT WOS:000670414400002
+ER
+
+PT J
+AU True, J
+   Xi, CJ
+   Jessurun, N
+   Ahi, K
+   Asadizanjani, N
+TI Review of THz-based semiconductor assurance
+SO OPTICAL ENGINEERING
+DE terahertz; hardware assurance; physical inspection; nondestructive
+   technology; counterfeit; failure analysis
+PY 2021
+DI 10.1117/1.OE.60.6.060901
+UT WOS:000670414400003
+ER
+
+PT J
+AU Hsieh, YM
+   Wang, TJ
+   Lin, CY
+   Peng, LH
+   Cheng, FT
+   Shang, SY
+TI Convolutional Neural Networks for Automatic Virtual Metrology
+SO IEEE ROBOTICS AND AUTOMATION LETTERS
+DE Automatic virtual metrology (AVM); deep learning; convolutional neural
+   networks (CNN)
+PY 2021
+DI 10.1109/LRA.2021.3084882
+UT WOS:000663515500002
+ER
+
+PT J
+AU Ismail, M
+   Mostafa, NA
+   El-assal, A
+TI Quality monitoring in multistage manufacturing systems by using machine
+   learning techniques
+SO JOURNAL OF INTELLIGENT MANUFACTURING
+DE Multistage manufacturing; Quality prediction; Quality monitoring;
+   Industry 4; 0; Machine learning; Smart manufacturing
+PY 2022
+DI 10.1007/s10845-021-01792-1
+UT WOS:000669189700002
+ER
+
+PT J
+AU Alaql, A
+   Rahman, MM
+   Bhunia, S
+TI SCOPE: Synthesis-Based Constant Propagation Attack on Logic Locking
+SO IEEE TRANSACTIONS ON VERY LARGE SCALE INTEGRATION (VLSI) SYSTEMS
+DE Logic gates; Security; Hardware; Tools; Scalability; IP networks;
+   Complexity theory; Hardware security; IP protection; logic locking;
+   obfuscation; security evaluation
+PY 2021
+DI 10.1109/TVLSI.2021.3089555
+UT WOS:000679530800006
+ER
+
+PT J
+AU Othman, S
+   Alali, MA
+   Sbita, L
+   Barbot, JP
+   Ghanes, M
+TI Modeling and Control Design Based on Petri Nets Tool for a Serial
+   Three-Phase Five-Level Multicellular Inverter Used as a Shunt Active
+   Power Filter
+SO ENERGIES
+DE hybrid system; FCMI; harmonic distortion; Petri Nets; shunt active power
+   filter
+PY 2021
+DI 10.3390/en14175335
+UT WOS:000694093100001
+ER
+
+PT J
+AU Dreyfus, PA
+   Psarommatis, F
+   May, G
+   Kiritsis, D
+TI Virtual metrology as an approach for product quality estimation in
+   Industry 4.0: a systematic review and integrative conceptual framework
+SO INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+DE Virtual metrology; zero-defect manufacturing; quality estimation;
+   systematic review; Industry 4; 0; machine learning
+PY 2022
+DI 10.1080/00207543.2021.1976433
+UT WOS:000696855900001
+ER
+
+PT J
+AU Akpabio, II
+   Savari, SA
+TI Uncertainty quantification of machine learning models: on conformal
+   prediction
+SO JOURNAL OF MICRO-NANOPATTERNING MATERIALS AND METROLOGY-JM3
+DE deep learning; machine learning; prediction intervals; line edge
+   roughness
+PY 2021
+DI 10.1117/1.JMM.20.4.041206
+UT WOS:000740745400004
+ER
+
+PT J
+AU Yan, Y
+   Shi, XL
+   Zhou, T
+   Xu, BW
+   Li, C
+   Yuan, W
+   Gao, Y
+   Pan, BY
+   Diao, XL
+   Chen, SM
+   Zhao, YH
+TI Machine learning virtual SEM metrology and SEM-based OPC model
+   methodology
+SO JOURNAL OF MICRO-NANOPATTERNING MATERIALS AND METROLOGY-JM3
+DE virtual SEM metrology; machine learning; deep convolutional neural
+   network; computational metrology
+PY 2021
+DI 10.1117/1.JMM.20.4.041204
+UT WOS:000740745400005
+ER
+
+PT J
+AU Gentner, N
+   Carletti, M
+   Kyek, A
+   Susto, GA
+   Yang, Y
+TI DBAM: Making Virtual Metrology/Soft sensing with time series data
+   scalable through Deep Learning
+SO CONTROL ENGINEERING PRACTICE
+DE Deep Learning; Domain adaptation; Etching; Industry 4.0; Semiconductor
+   manufacturing; Soft sensing; Virtual Metrology
+PY 2021
+DI 10.1016/j.conengprac.2021.104914
+UT WOS:000762073500004
+ER
+
+PT J
+AU Maldonado-Romo, J
+   Aldape-Perez, M
+TI Sustainable Circular Micro Index for Evaluating Virtual Substitution
+   Using Machine Learning with the Path Planning Problem as a Case Study
+SO SUSTAINABILITY
+DE circular economy; sustainability; machine learning; virtual substitution
+PY 2021
+DI 10.3390/su132313436
+UT WOS:000735079400001
+ER
+
+PT J
+AU Zeydan, E
+   Baranda, J
+   Mangues-Bafalluy, J
+TI Post-Quantum Blockchain-Based Secure Service Orchestration in
+   Multi-Cloud Networks
+SO IEEE ACCESS
+DE Quantum computing; Security; Indium phosphide; III-V semiconductor
+   materials; Blockchains; Cloud computing; Cryptography; Orchestration;
+   mobile operator; post-quantum; network service; blockchain
+PY 2022
+DI 10.1109/ACCESS.2022.3228823
+UT WOS:000902077200001
+ER
+
+PT J
+AU Tin, TC
+   Tan, SC
+   Lee, CK
+TI Virtual Metrology in Semiconductor Fabrication Foundry Using Deep
+   Learning Neural Networks
+SO IEEE ACCESS
+DE Metrology; Semiconductor device modeling; Inspection; Fabrication;
+   Predictive models; Lithography; Costs; Virtual metrology; overlay;
+   conjecture; regression; CNN
+PY 2022
+DI 10.1109/ACCESS.2022.3193783
+UT WOS:000841776300001
+ER
+
+PT J
+AU Le, LMD
+TI Analytical Expressions of Time-Domain Responses of Protection Circuits
+   to ISO Reverse Transients in Automotive Applications
+SO IEEE ACCESS
+DE MOSFET; Transient analysis; ISO Standards; Batteries; Breakdown voltage;
+   Integrated circuit modeling; Capacitors; Automotive applications;
+   avalanche breakdown; circuit analysis; electromagnetic interference
+   (EMI); immunity testing; MOSFET; time-domain analysis
+PY 2022
+DI 10.1109/ACCESS.2022.3176639
+UT WOS:000800800300001
+ER
+
+PT J
+AU Gong, DC
+   Hou, TC
+   Hoang, P
+   Peters, B
+   Chen, PS
+TI Framework for Developing a Knowledge Warehouse Towards a Resilient
+   Semiconductor Assembly and Testing Firm
+SO IEEE ACCESS
+DE Resilience; Supply chains; Earthquakes; Testing; Tropical cyclones; Risk
+   management; Planning; Supply chain resilience; semiconductor; knowledge
+   warehouse; backcasting; case study
+PY 2022
+DI 10.1109/ACCESS.2021.3139912
+UT WOS:000742702000001
+ER
+
+PT J
+AU Vashistha, N
+   Hossain, MM
+   Shahriar, MR
+   Farahmandi, F
+   Rahman, F
+   Tehranipoor, MM
+TI eChain: A Blockchain-Enabled Ecosystem for Electronic Device
+   Authenticity Verification
+SO IEEE TRANSACTIONS ON CONSUMER ELECTRONICS
+DE Integrated circuits; Supply chains; Consumer electronics; Blockchains;
+   Fabrication; Distributed ledger; Companies; Hardware security;
+   counterfeit detection; blockchain; smart contracts; semiconductor supply
+   chain
+PY 2022
+DI 10.1109/TCE.2021.3139090
+UT WOS:000782416100009
+ER
+
+PT J
+AU Prihatno, AT
+   Utama, IBKY
+   Jang, YM
+TI oneM2M-Enabled Prediction of High Particulate Matter Data Based on
+   Multi-Dense Layer BiLSTM Model
+SO APPLIED SCIENCES-BASEL
+DE oneM2M; particulate matter (PM); PM2; 5; Multi-Dense Layer BiLSTM;
+   cleanroom
+PY 2022
+DI 10.3390/app12042260
+UT WOS:000767608300001
+ER
+
+PT J
+AU Choi, JE
+   Park, H
+   Lee, Y
+   Hong, SJ
+TI Virtual Metrology for Etch Profile in Silicon Trench Etching With
+   SF6/O2/Ar Plasma
+SO IEEE TRANSACTIONS ON SEMICONDUCTOR MANUFACTURING
+DE Plasmas; Etching; Silicon; Semiconductor process modeling; Semiconductor
+   device modeling; Data models; Metrology; Virtual metrology; etch
+   profile; etch depth; Si etching; machine learning
+PY 2022
+DI 10.1109/TSM.2021.3138918
+UT WOS:000752011800019
+ER
+
+PT J
+AU Kim, D
+   Park, YS
+   Kim, HW
+   Park, KS
+   Moon, IK
+TI Inventory policy for postponement strategy in the semiconductor industry
+   with a die bank
+SO SIMULATION MODELLING PRACTICE AND THEORY
+DE Inventory control; Semiconductor manufacturing; Postponement strategy;
+   Simulation; Die bank
+PY 2022
+DI 10.1016/j.simpat.2022.102498
+UT WOS:000774218300004
+ER
+
+PT J
+AU Yang, Y
+   Park, Y
+   Smith, TM
+   Kim, T
+   Park, HS
+TI High-Resolution Environmentally Extended Input-Output Model to Assess
+   the Greenhouse Gas Impact of Electronics in South Korea
+SO ENVIRONMENTAL SCIENCE & TECHNOLOGY
+DE Corporate GHG accounting; corporate sustainability; scope 3 emissions;
+   LCD display; fluorinated GHG; semiconductor capital investment; EEIO
+PY 2022
+DI 10.1021/acs.est.1c05451
+UT WOS:000763099700003
+ER
+
+PT J
+AU Abu-Rasheed, H
+   Weber, C
+   Zenkert, J
+   Dornhöfer, M
+   Fathi, M
+TI Transferrable Framework Based on Knowledge Graphs for Generating
+   Explainable Results in Domain-Specific, Intelligent Information
+   Retrieval
+SO INFORMATICS-BASEL
+DE explainability; graph based XAI; information retrieval; knowledge
+   graphs; domain-specific IR
+PY 2022
+DI 10.3390/informatics9010006
+UT WOS:000775353900001
+ER
+
+PT J
+AU Breton, MA
+   Schmidt, D
+   Greene, A
+   Frougier, J
+   Felix, N
+TI Review of nanosheet metrology opportunities for technology readiness
+SO JOURNAL OF MICRO-NANOPATTERNING MATERIALS AND METROLOGY-JM3
+DE nanosheet; gate-all-around; metrology; characterization
+PY 2022
+DI 10.1117/1.JMM.21.2.021206
+UT WOS:000835428700008
+ER
+
+PT J
+AU Herding, R
+   Mönch, L
+TI An agent-based infrastructure for assessing the performance of planning
+   approaches for semiconductor supply chains
+SO EXPERT SYSTEMS WITH APPLICATIONS
+DE Planning; Semiconductor Supply Chains; Performance Assessment; Software
+   Agents; Discrete-event Simulation
+PY 2022
+DI 10.1016/j.eswa.2022.117001
+UT WOS:000804926500004
+ER
+
+PT J
+AU Lang, CI
+   Jansen, A
+   Didari, S
+   Kothnur, P
+   Boning, DS
+TI Modeling and Optimizing the Impact of Process and Equipment Parameters
+   in Sputtering Deposition Systems Using a Gaussian Process Machine
+   Learning Framework
+SO IEEE TRANSACTIONS ON SEMICONDUCTOR MANUFACTURING
+DE Semiconductor device modeling; Data models; Semiconductor process
+   modeling; Predictive models; Training data; Sputtering; Optimization;
+   Compact modeling; deposition; Gaussian process; machine learning;
+   modeling; optimization; process modeling; non-uniformity; reinforcement
+   learning; thickness; sputtering; uniformity; variations
+PY 2022
+DI 10.1109/TSM.2021.3132562
+UT WOS:000803112900016
+ER
+
+PT J
+AU Mikhailov, V
+   Luo, JW
+   Inniss, D
+   Yan, MF
+   Sun, YZ
+   Puc, GS
+   Windeler, RS
+   Westbrook, PS
+   Dulashko, Y
+   DiGiovanni, DJ
+TI Amplified Transmission Beyond C- and L- Bands: Bismuth Doped Fiber
+   Amplifier for O-Band Transmission
+SO JOURNAL OF LIGHTWAVE TECHNOLOGY
+DE Optical fiber amplifiers; Optical fiber dispersion; Optical fibers;
+   Stimulated emission; Gain; Bismuth; Doped fiber amplifiers; Bismuth
+   doped fiber amplifier; broadband optical amplification; high power fiber
+   amplifier; LAN-WDM; O-band transmission; optical fiber amplifiers
+PY 2022
+DI 10.1109/JLT.2022.3169172
+UT WOS:000802148900014
+ER
+
+PT J
+AU Chien, CF
+   Kuo, HA
+   Lin, YS
+TI Smart semiconductor manufacturing for pricing, demand planning, capacity
+   portfolio and cost for sustainable supply chain management
+SO INTERNATIONAL JOURNAL OF LOGISTICS-RESEARCH AND APPLICATIONS
+DE Smart production; semiconductor manufacturing; price strategy; demand
+   planning; capacity planning; cost structure; sustainable supply chain
+   management
+PY 2024
+DI 10.1080/13675567.2022.2076818
+UT WOS:000797366800001
+ER
+
+PT J
+AU Chien, CF
+   Hong, TY
+TI An integrated framework of Industry 3.5 and an empirical study of
+   simulation-based automated material handling system for semiconductor
+   manufacturing
+SO INTERNATIONAL JOURNAL OF LOGISTICS-RESEARCH AND APPLICATIONS
+DE Industry 3; 5; Industry 4; 0; manufacturing transformation; Automated
+   Material Handling System (AMHS); semiconductor manufacturing
+PY 2024
+DI 10.1080/13675567.2022.2090528
+UT WOS:000812674600001
+ER
+
+PT J
+AU Ramani, V
+   Ghosh, D
+   Sodhi, MS
+TI Understanding systemic disruption from the Covid-19-induced
+   semiconductor shortage for the auto industry
+SO OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+DE Systemic disruption; Covid-19; Automotive; Chips shortage; Electronic
+   industry
+PY 2022
+DI 10.1016/j.omega.2022.102720
+UT WOS:000825093100002
+ER
+
+PT J
+AU Cetkovic, A
+   Bellapianta, A
+   Irimia-Vladu, M
+   Hofinger, J
+   Yumusak, C
+   Corna, A
+   Scharber, MC
+   Zeck, G
+   Sariciftci, NS
+   Bolz, M
+   Salti, A
+TI In Vitro Cytotoxicity of D18 and Y6 as Potential Organic Photovoltaic
+   Materials for Retinal Prostheses
+SO INTERNATIONAL JOURNAL OF MOLECULAR SCIENCES
+DE retinal dystrophy; cytotoxicity; retinal prosthesis; D18; Y6; organic
+   photovoltaic materials
+PY 2022
+DI 10.3390/ijms23158666
+UT WOS:000838893500001
+ER
+
+PT J
+AU Ivanov, D
+   Dolgui, A
+TI The shortage economy and its implications for supply chain and
+   operations management
+SO INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+DE Supply chain resilience; ripple effect; viability; COVID-19 pandemic;
+   inflation; semiconductor shortage
+PY 2022
+DI 10.1080/00207543.2022.2118889
+UT WOS:000853159400001
+ER
+
+PT J
+AU Le Gratiet, B
+   Le Cunff, D
+   Bidault, L
+   Alcaire, T
+   Desmaison, S
+   Bouyssou, R
+TI Deployment of convolutional neural network solutions for image computing
+   in semiconductor manufacturing environment
+SO JOURNAL OF MICRO-NANOPATTERNING MATERIALS AND METROLOGY-JM3
+DE image classification; convolutional neural networks; region-based
+   convolutional neural networks; transfer learning; automatic defect
+   classification; automatic wafer classification; manufacturing
+PY 2022
+DI 10.1117/1.JMM.21.4.041603
+UT WOS:000924949300015
+ER
+
+PT J
+AU Frieske, B
+   Stieler, S
+TI The "Semiconductor Crisis" as a Result of the COVID-19 Pandemic and
+   Impacts on the Automotive Industry and Its Supply Chains
+SO WORLD ELECTRIC VEHICLE JOURNAL
+DE market development; automotive industry; strategy; semiconductor; supply
+   chain; COVID-19
+PY 2022
+DI 10.3390/wevj13100189
+UT WOS:000879802700001
+ER
+
+PT J
+AU Das, S
+   Chakrabarti, S
+   Wali, A
+   Ravichandran, H
+   Kundu, S
+   Schranghamer, TF
+   Basu, K
+TI Logic Locking of Integrated Circuits Enabled by Nanoscale MoS2-Based
+   Memtransistors
+SO ACS APPLIED NANO MATERIALS
+DE integrated circuits; two-dimensional material; logic locking; security;
+   in-memory computing
+PY 2022
+DI 10.1021/acsanm.2c02807
+UT WOS:000870017500001
+ER
+
+PT J
+AU El Jaouhari, A
+   El Bhilat, E
+   Arif, J
+TI Scrutinizing IoT applicability in green warehouse inventory management
+   system based on Mamdani fuzzy inference system: a case study of an
+   automotive semiconductors industrial firm
+SO JOURNAL OF INDUSTRIAL AND PRODUCTION ENGINEERING
+DE Green warehouse inventory management; Internet of Things; fuzzy
+   inference system; performance; sustainability; Mamdani
+PY 2023
+DI 10.1080/21681015.2022.2142303
+UT WOS:000882886700001
+ER
+
+PT J
+AU Todorova, N
+   Minev, N
+   Marinova, V
+   Buchkov, K
+   Videva, V
+   Todorov, R
+   Rafailov, P
+   Strijkova, V
+   Psycharis, V
+   Giannakopoulou, T
+   Papailias, I
+   Ioannidis, N
+   Mitrikas, G
+   Dimitrov, D
+   Trapalis, C
+TI Two-dimensional PtSe2 coatings with antibacterial activity
+SO APPLIED SURFACE SCIENCE
+DE Transition metal dichalcogenides; 2D PtSe 2; Antibacterial coatings;
+   Escherichia coli; Photocatalysis
+PY 2023
+DI 10.1016/j.apsusc.2022.155534
+UT WOS:000892940200002
+ER
+
+PT J
+AU He, C
+   Wang, RY
+   Wu, DP
+   Tan, ZF
+   Dai, NN
+TI Energy-Aware Virtual Network Migration for Internet of Things Over Fiber
+   Wireless Broadband Access Network
+SO IEEE INTERNET OF THINGS JOURNAL
+DE Resource management; 5G mobile communication; Indium phosphide; III-V
+   semiconductor materials; Substrates; Internet of Things; Optical fiber
+   networks; Energy conservation; fiber wireless broadband access network
+   (FiWi); greedy path selection; maximum weight matching; migration time;
+   virtual network migration (VNM)
+PY 2022
+DI 10.1109/JIOT.2022.3189081
+UT WOS:000904931000085
+ER
+
+PT J
+AU Xu, HW
+   Qin, W
+   Lv, YL
+   Zhang, J
+TI Data-Driven Adaptive Virtual Metrology for Yield Prediction in
+   Multibatch Wafers
+SO IEEE TRANSACTIONS ON INDUSTRIAL INFORMATICS
+DE Semiconductor device modeling; Adaptation models; Feature extraction;
+   Three-dimensional displays; Batch production systems; Predictive models;
+   Metrology; Batch process; Gath-Geva-based fuzzy clustering (GGFC);
+   multitask learning deep belief network (MLDBN); semiconductor
+   manufacturing; virtual metrology; wafer yield prediction
+PY 2022
+DI 10.1109/TII.2022.3162268
+UT WOS:000862429800065
+ER
+
+PT J
+AU Ejdys, J
+   Szpilko, D
+TI HOW TO ENSURE THE RESILIENCE OF SEMICONDUCTOR SUPPLY CHAINS IN THE
+   EUROPEAN UNION?
+SO POLISH JOURNAL OF MANAGEMENT STUDIES
+DE semiconductors supply chain; Delphi study; scenario method; resilience
+PY 2023
+DI 10.17512/pjms.2023.28.1.06
+UT WOS:001185676600006
+ER
+
+PT J
+AU Wu, CT
+   Tsou, CS
+   Li, SH
+TI Data Augmentation With CycleGAN to Build a Classifier for Novel Defects
+   From the Dicing Stage of Semiconductor Package Assembly
+SO IEEE ACCESS
+DE Semiconductor device modeling; Data models; Training; Integrated circuit
+   modeling; Artificial intelligence; Production facilities; Semantic
+   segmentation; Outsourcing; Assembly systems; Automated optical
+   inspection (AOI); outsourced semiconductor assembly and test (OSAT);
+   artificial intelligence; vision defects; GAN; image fusion
+PY 2023
+DI 10.1109/ACCESS.2023.3309159
+UT WOS:001063011400001
+ER
+
+PT J
+AU Huan, JJ
+   Dehghanzadeh, P
+   Mandal, S
+   Bhunia, S
+TI Contact-Less Integrity Verification of Microelectronics Using Near-Field
+   EM Analysis
+SO IEEE ACCESS
+DE Near-field radiation pattern; Counterfeiting; Near-field electromagnetic
+   emission; hardware integrity verification; FPGA fabric; system on chip;
+   linear-feedback shift register; counterfeit electronics
+PY 2023
+DI 10.1109/ACCESS.2023.3300222
+UT WOS:001045239600001
+ER
+
+PT J
+AU Sagvand, F
+   Siahbalaee, J
+   Koochaki, A
+TI An Asymmetrical 19-Level Inverter with a Reduced Number of Switches and
+   Capacitors
+SO ELECTRONICS
+DE multilevel inverter; asymmetrical converter; reduced device count;
+   multi-carrier pulse width modulation
+PY 2023
+DI 10.3390/electronics12020338
+UT WOS:000914472100001
+ER
+
+PT J
+AU Duy, LV
+   Nguyet, TT
+   Le, DTT
+   Duy, NV
+   Nguyen, H
+   Biasioli, F
+   Tonezzer, M
+   Di Natale, C
+   Hoa, ND
+TI Room Temperature Ammonia Gas Sensor Based on p-Type-like
+   V2O5 Nanosheets towards Food Spoilage Monitoring
+SO NANOMATERIALS
+DE gas sensor; vanadium pentoxide; ammonia; nanosheet; room temperature;
+   food quality
+PY 2023
+DI 10.3390/nano13010146
+UT WOS:000909588600001
+ER
+
+PT J
+AU Ngo, AT
+   Dey, B
+   Halder, S
+   De Gendt, S
+   Wang, CH
+TI Machine Learning-Based Edge Placement Error Analysis and Optimization: A
+   Systematic Review
+SO IEEE TRANSACTIONS ON SEMICONDUCTOR MANUFACTURING
+DE Optimization; Machine learning; Metrology; Semiconductor device
+   modeling; Predictive models; Semiconductor device measurement; Optical
+   variables measurement; Edge placement error; deep learning; machine
+   learning; metrology; optical proximity correction; overlay;
+   semiconductor; sub-resolution assist feature
+PY 2023
+DI 10.1109/TSM.2022.3217326
+UT WOS:000935143900001
+ER
+
+PT J
+AU Choi, JE
+   Seol, D
+   Kim, CY
+   Hong, SJ
+TI Generative Adversarial Network-Based Fault Detection in Semiconductor
+   Equipment with Class-Imbalanced Data
+SO SENSORS
+DE fault detection; generative adversarial networks; machine learning;
+   optical emission spectroscopy; plasma etch
+PY 2023
+DI 10.3390/s23041889
+UT WOS:000941753500001
+ER
+
+PT J
+AU Kuo, HA
+   Chien, CF
+TI Semiconductor capacity expansion based on forecast evolution and
+   mini-max regret strategy for smart production under demand uncertainty
+SO COMPUTERS & INDUSTRIAL ENGINEERING
+DE Capacity expansion; Forecast evolution; Mini-max regret strategy;
+   Rolling horizon; Semiconductor supply chain; Simulation
+PY 2023
+DI 10.1016/j.cie.2023.109077
+UT WOS:000944659400001
+ER
+
+PT J
+AU Shah, PY
+   Zhao, XW
+TI Leakage Current Mitigation Technique in Solar PV Array System Using
+   Passive Filter
+SO IEEE TRANSACTIONS ON ENERGY CONVERSION
+DE DC-DC converter; DC-AC converter; DSTATCOM; grid-tied solar array;
+   harmonic analysis; MPPT; power quality; solar power generation; voltage
+   control; voltage source converter
+PY 2023
+DI 10.1109/TEC.2022.3186741
+UT WOS:000966087100001
+ER
+
+PT J
+AU Liao, HT
+   Pan, CL
+   Zhang, Y
+TI Smart digital platforms for carbon neutral management and services:
+   Business models based on ITU standards for green digital transformation
+SO FRONTIERS IN ECOLOGY AND EVOLUTION
+DE digital economy; carbon neutrality; AI for good; information systems;
+   systems innovation; socio-technical transition; digital platform; open
+   collaboration
+PY 2023
+DI 10.3389/fevo.2023.1134381
+UT WOS:000963112700001
+ER
+
+PT J
+AU Lorusso, GF
+TI Unavoidable renaissance of electron metrology in the age of high
+   numerical aperture extreme ultraviolet lithography
+SO JOURNAL OF MICRO-NANOPATTERNING MATERIALS AND METROLOGY-JM3
+DE Critical dimension-scanning electron microscope; e-beam metrology; high
+   numerical aperture extreme ultraviolet lithography
+PY 2023
+DI 10.1117/1.JMM.22.2.021005
+UT WOS:001122013000011
+ER
+
+PT J
+AU Talukder, BMSB
+   Ferdaus, F
+   Rahman, MT
+TI A Noninvasive Technique to Detect Authentic/Counterfeit SRAM Chips
+SO ACM JOURNAL ON EMERGING TECHNOLOGIES IN COMPUTING SYSTEMS
+DE Counterfeit memory; counterfeit SRAM; anti-counterfeiting; semiconductor
+   supply-chain security
+PY 2023
+DI 10.1145/3597024
+UT WOS:001000655300002
+ER
+
+PT J
+AU Gandhi, J
+   Shekhawat, D
+   Santosh, M
+   Pandey, JG
+TI Logic locking for IP security: A comprehensive analysis on challenges,
+   techniques, and trends
+SO COMPUTERS & SECURITY
+DE IP piracy and IP security; Logic locking; Logic obfuscation;
+   Boolean-SATisfiability (SAT) attack; Machine learning-based attacks;
+   Graph neural network (GNN)
+PY 2023
+DI 10.1016/j.cose.2023.103196
+UT WOS:000979658200001
+ER
+
+PT J
+AU Kim, D
+   Na, SGY
+   Kim, H
+   Yun, IL
+TI Methodology for Plasma Diagnosis and Accurate Virtual Measurement
+   Modeling Using Optical Emission Spectroscopy
+SO IEEE SENSORS JOURNAL
+DE Plasmas; Optical variables measurement; Stimulated emission; Plasma
+   measurements; Optical sensors; Spectroscopy; Semiconductor device
+   measurement; Optical emission spectroscopy (OES); plasma diagnosis;
+   plasma-enhanced atomic layer deposition (PE-ALD); process uniformity;
+   virtual metrology (VM)
+PY 2023
+DI 10.1109/JSEN.2023.3251343
+UT WOS:000974500000084
+ER
+
+PT J
+AU Fu, WH
+   Jing, S
+   Liu, QM
+   Zhang, H
+TI Resilient Supply Chain Framework for Semiconductor Distribution and an
+   Empirical Study of Demand Risk Inference
+SO SUSTAINABILITY
+DE supply chain resilience; data analytics; intelligent decision making;
+   demand forecast; risk analysis
+PY 2023
+DI 10.3390/su15097382
+UT WOS:000988177400001
+ER
+
+PT J
+AU [Anonymous]
+TI Metsae Tissue Platinum Award in EcoVadis Assessment
+SO WOCHENBLATT FUR PAPIERFABRIKATION
+PY 2023
+UT WOS:000987554300005
+ER
+
+PT J
+AU Chen, YH
+   Chen, CA
+   Chien, CF
+TI Logistics and supply chain management reorganisation via talent
+   portfolio management to enhance human capital and resilience
+SO INTERNATIONAL JOURNAL OF LOGISTICS-RESEARCH AND APPLICATIONS
+DE Human capital; reorganisation; portfolio decision; staff assignment;
+   genetic algorithm; TOPSIS
+PY 2024
+DI 10.1080/13675567.2023.2226604
+UT WOS:001015497900001
+ER
+
+PT J
+AU Liu, GH
+   Zhang, WJ
+   Chen, HT
+   Lin, S
+   Shen, XH
+   Lin, HC
+   Chen, JD
+   Zhang, LM
+TI Dynamic and Steady Luminous Flux Model for White LED Devices Based on
+   Ripple Properties
+SO ACTA OPTICA SINICA
+DE optical device; dynamic luminous flux model; ripple current; flicker
+   index; percent flicker; white light-emitting diode
+PY 2023
+DI 10.3788/AOS230441
+UT WOS:001028754900025
+ER
+
+PT J
+AU Yun, HYK
+   An, CH
+   Jang, H
+   Cho, KYR
+   Lee, JS
+   Eom, S
+   Kim, CK
+   Yoo, MS
+   Choi, HC
+   Baek, RH
+TI Accurate Prediction and Reliable Parameter Optimization of Neural
+   Network for Semiconductor Process Monitoring and Technology Development
+SO ADVANCED INTELLIGENT SYSTEMS
+DE gradient descent method; holistic parameter optimization; machine
+   learning; network ensemble; neural networks; semiconductor
+   manufacturing; transistor; variability
+PY 2023
+DI 10.1002/aisy.202300089
+UT WOS:001024049800001
+ER
+
+PT J
+AU Zhao, JY
+   Zhao, MX
+   Shi, L
+   Zi, J
+TI Angle-Resolved Spectroscopy and Its Applications
+SO ACTA OPTICA SINICA
+DE angle-resolved spectrum; optical inverse scattering problems; optical
+   scattering imaging; optical critical dimension; defect detection
+PY 2023
+DI 10.3788/AOS230860
+UT WOS:001044414200016
+ER
+
+PT J
+AU Joo, J
+   Yang, KW
+   Choi, YJ
+   Min, B
+   Kim, CO
+TI Virtual Metrology Modeling for Wafer Edges via Graph Attention Networks
+SO IEEE TRANSACTIONS ON SEMICONDUCTOR MANUFACTURING
+DE Graph attention network; moving window; semiconductor manufacturing;
+   virtual metrology; wafer edge
+PY 2023
+DI 10.1109/TSM.2023.3284817
+UT WOS:001043145000009
+ER
+
+PT J
+AU Cho, H
+   Koo, W
+   Kim, H
+TI Prediction of Highly Imbalanced Semiconductor Chip-Level Defects in
+   Module Tests Using Multimodal Fusion and Logit Adjustment
+SO IEEE TRANSACTIONS ON SEMICONDUCTOR MANUFACTURING
+DE Index Terms-Classification; class-imbalance learning; module test;
+   multimodal fusion; semiconductor manufacturing
+PY 2023
+DI 10.1109/TSM.2023.3283101
+UT WOS:001043145000016
+ER
+
+PT J
+AU Liu, YJ
+   Ni, D
+   Shao, X
+   Gong, DL
+   Li, JJ
+TI A hierarchical model-based method for wafer level virtual metrology
+   under process information deficiency
+SO QUALITY ENGINEERING
+DE virtual metrology; long short-term memory; semiconductor manufacturing;
+   multiway principal analysis
+PY 2024
+DI 10.1080/08982112.2023.2252891
+UT WOS:001093028300001
+ER
+
+PT J
+AU Shih, AJ
+TI Multicultural Diversity Workforce and Global Technology Collaboration
+   Empowered Semiconductor Manufacturing Excellence in Taiwan: A
+   Manufacturing Engineer's Perspective
+SO JOURNAL OF MANUFACTURING SCIENCE AND ENGINEERING-TRANSACTIONS OF THE
+   ASME
+DE semiconductor manufacturing; micro-and nano-machining and processing;
+   production systems optimization
+PY 2023
+DI 10.1115/1.4062729
+UT WOS:001039745300011
+ER
+
+PT J
+AU Zhang, BB
+   Shang, FL
+   Shi, XF
+   Yao, RY
+   Wei, FX
+   Hou, XY
+   Li, WL
+   Zhang, J
+TI Polyaniline/CuO Nanoparticle Composites for Use in Selective
+   H2S Sensors
+SO ACS APPLIED NANO MATERIALS
+DE PANI fiber; CuO nanoparticle; PANI/CuOnanocomposite; H2S gas sensor;
+   ambient-usedflexible sensor
+PY 2023
+DI 10.1021/acsanm.3c03732
+UT WOS:001075000500001
+ER
+
+PT J
+AU Chen, PK
+   Ye, Y
+   Wen, MH
+TI Efficiency of metaverse on the improvement of the green procurement
+   policy of semiconductor supply chain - based on behaviour perspective
+SO RESOURCES POLICY
+DE Green procurement policy; Operational resilience; Metaverse; Collective
+   behaviour; Bandwagon effect; Green recovery ability
+PY 2023
+DI 10.1016/j.resourpol.2023.104213
+UT WOS:001148150000001
+ER
+
+PT J
+AU Fan, AZ
+   Huang, Y
+   Xu, F
+   Bom, S
+TI Soft-Sensing Regression Model: From Sensor to Wafer Metrology
+   Forecasting
+SO SENSORS
+DE data processing; artificial intelligence; wafer manufacturing
+PY 2023
+DI 10.3390/s23208363
+UT WOS:001119418300001
+ER
+
+PT J
+AU Lombardo, F
+   Pittino, F
+   Goldoni, D
+   Selmi, L
+TI Machine learning and data augmentation methods for multispectral
+   capacitance images of nanoparticles with nanoelectrodes array biosensors
+SO ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE
+DE Data augmentation; Efficient nano-particles metrology; Impedance
+   spectroscopy numerical simulations; Machine learning; Nano-scale size
+   estimation; Nano-capacitors biosensor
+PY 2024
+DI 10.1016/j.engappai.2023.107246
+UT WOS:001096347500001
+ER
+
+PT J
+AU Sabbagh, R
+   Stothert, A
+   Djurdjanovic, D
+TI Machine learning for rapid inference of critical dimensions in optical
+   metrology of nanopatterned surfaces
+SO CIRP JOURNAL OF MANUFACTURING SCIENCE AND TECHNOLOGY
+DE Real-time metrology of nanopatterned surfaces; Critical Dimensions;
+   Scatterometry-based metrology; Machine Learning-based inference of
+   Critical; Dimensions; Optical Metrology
+PY 2023
+DI 10.1016/j.cirpj.2023.10.001
+UT WOS:001097520000001
+ER
+
+PT J
+AU Herding, R
+   Mönch, L
+TI A rolling horizon planning approach for short-term demand supply
+   matching
+SO CENTRAL EUROPEAN JOURNAL OF OPERATIONS RESEARCH
+DE Demand fulfillment; Short-term demand supply matching; Rolling horizon;
+   Semiconductor supply chains; Discrete-event simulation
+PY 2024
+DI 10.1007/s10100-023-00891-z
+UT WOS:001093484400001
+ER
+
+PT J
+AU Hsu, CY
+   Lu, YW
+TI Virtual metrology of material removal rate using a one-dimensional
+   convolutional neural network-based bidirectional long short-term memory
+   network with attention
+SO COMPUTERS & INDUSTRIAL ENGINEERING
+DE Deep learning; Virtual metrology; One-dimensional convolution neural
+   network; Bidirectional long short -term memory; Semiconductor
+   manufacturing
+PY 2023
+DI 10.1016/j.cie.2023.109701
+UT WOS:001105210700001
+ER
+
+PT J
+AU Kuo, HA
+   Chien, CF
+   Ehm, H
+   Ponsignon, T
+TI A semantic web-based risk assessment framework for collaborative
+   planning to enhance overall supply chain effectiveness for semiconductor
+   industry
+SO APPLIED SOFT COMPUTING
+DE Semantic web; Semiconductor manufacturing; Overall supply chain
+   effectiveness; System interoperability; Root cause diagnosis
+PY 2023
+DI 10.1016/j.asoc.2023.110976
+UT WOS:001102836900001
+ER
+
+PT J
+AU Abdelaziz, YN
+   Mansour, M
+   Alsokhiry, F
+   Ahmed, KH
+   Abdel-khalik, AS
+   Abdulwhab, A
+TI A new hybrid multilevel thyristor-based DC-DC converter
+SO ALEXANDRIA ENGINEERING JOURNAL
+DE Modular multilevel converter (MMC); DC-DC converters; Thyristors; HVDC;
+   Power control; Full-bridge submodule
+PY 2023
+DI 10.1016/j.aej.2023.11.029
+UT WOS:001148969100001
+ER
+
+PT J
+AU Lombardo, G
+   Couvert, C
+   Kose, M
+   Begum, A
+   Spiertz, C
+   Worrell, C
+   Hasselbaink, D
+   Didden, EM
+   Sforzini, L
+   Todorovic, M
+   Lewi, M
+   Brown, M
+   Vaterkowski, M
+   Gullet, N
+   Amasi-Hartoonian, N
+   Griffon, N
+   Pais, R
+   Navarro, SR
+   Kremer, A
+   Maes, C
+   Tan, EH
+   Moinat, M
+   Ferrer, JG
+   Pariante, CM
+   Kalra, D
+   Ammour, N
+   Kalko, S
+TI Electronic health records (EHRs) in clinical research and platform
+   trials: Application of the innovative EHR-based methods developed by
+   EU-PEARL
+SO JOURNAL OF BIOMEDICAL INFORMATICS
+DE Electronic Health Records; Clinical research; Platform Trials; EU-PEARL
+PY 2023
+DI 10.1016/j.jbi.2023.104553
+UT WOS:001129649900001
+ER
+
+PT J
+AU Wang, XL
+   Zhan, LY
+   Zhang, Y
+   Fei, T
+   Tseng, ML
+TI Environmental cold chain distribution center location model in the
+   semiconductor supply chain: A hybrid arithmetic whale optimization
+   algorithm
+SO COMPUTERS & INDUSTRIAL ENGINEERING
+DE Distribution center location; Environmental cold chain; Semiconductor
+   supply chain; Whale optimization algorithm; Hybrid arithmetic
+PY 2024
+DI 10.1016/j.cie.2023.109773
+UT WOS:001125990700001
+ER
+
+PT J
+AU Nicholas, GS
+   Aklekar, DV
+   Thakar, B
+   Saqib, F
+TI Secure Instruction and Data-Level Information Flow Tracking Model for
+   RISC-V
+SO CRYPTOGRAPHY
+DE information flow tracking (IFT); hardware security; ISA; toolchain;
+   software attacks; gate-level IFT; RISC-V
+PY 2023
+DI 10.3390/cryptography7040058
+UT WOS:001131183500001
+ER
+
+PT J
+AU Hassaan, MA
+   El-Nemr, MA
+   Elkatory, MR
+   Ragab, S
+   Niculescu, VC
+   El Nemr, A
+TI Principles of Photocatalysts and Their Different Applications: A Review
+SO TOPICS IN CURRENT CHEMISTRY
+DE Doped metal oxides; CO2 reduction; Plasmonic nanostructures;
+   Photocatalyst; H-2 production; Artificial intelligence
+PY 2023
+DI 10.1007/s41061-023-00444-7
+UT WOS:001096181600001
+ER
+
+PT J
+AU Chen, SH
+   Huang, ZT
+   Wang, T
+   Hou, XN
+   Ma, J
+TI Mixed-type wafer defect detection based on multi-branch feature enhanced
+   residual module
+SO EXPERT SYSTEMS WITH APPLICATIONS
+DE Semiconductor manufacturing; Wafer map; Defect detection; Feature
+   enhancement
+PY 2024
+DI 10.1016/j.eswa.2023.122795
+UT WOS:001133028900001
+ER
+
+PT J
+AU Gentner, N
+   Susto, GA
+TI Heterogeneous domain adaptation and equipment matching: DANN-based
+   Alignment with Cyclic Supervision (DBACS)
+SO COMPUTERS & INDUSTRIAL ENGINEERING
+DE Deep learning; Equipment matching; Heterogeneous domain adaptation;
+   Multi-view learning; Semiconductor manufacturing; Virtual metrology
+PY 2024
+DI 10.1016/j.cie.2023.109821
+UT WOS:001137414400001
+ER
+
+PT J
+AU Su, YT
+   Shi, J
+   Hsu, YM
+   Ji, DY
+   Suer, AD
+   Lee, JY
+TI Volumetric nondestructive metrology for 3D semiconductor packaging: A
+   review
+SO MEASUREMENT
+DE 3D packaging; Semiconductor manufacturing; Volumetric nondestructive
+   testing; Metrology; Artificial intelligence
+PY 2024
+DI 10.1016/j.measurement.2023.114065
+UT WOS:001146405300001
+ER
+
+PT J
+AU Bu, QX
+TI Can De-risking Avert Supply Chain Precarity in the Face of China-US
+   Geopolitical Tensions? From Sanctions to Semiconductor Resilience and
+   National Security
+SO AUSTRALIAN BUSINESS LAW REVIEW
+PY 2024
+UT WOS:001329920300001
+ER
+
+PT J
+AU Kahraman, CL
+   Roman, D
+   Kirschbaum, L
+   Flynn, D
+   Swingler, J
+TI Machine Learning Pipeline for Power Electronics State of Health
+   Assessment and Remaining Useful Life Prediction
+SO IEEE ACCESS
+DE MOSFET; Pipelines; Power electronics; Degradation; Machine learning;
+   Semiconductor device modeling; Reliability; Life cycle assessment;
+   Predictive maintenance; Lifetime estimation; Accelerated life cycle
+   test; data-driven prognostics; machine learning; MOSFET RUL; predictive
+   maintenance; power electronics remaining useful life; remaining useful
+   life estimation; state of health estimation
+PY 2024
+DI 10.1109/ACCESS.2024.3460177
+UT WOS:001327297600001
+ER
+
+PT J
+AU Manivel, M
+   Subramani, S
+   Palani, L
+   Tamilselvan, K
+TI Performance Investigation of 17 Level Reduced Switch Count Multilevel
+   Inverter
+SO INTERNATIONAL JOURNAL OF ELECTRICAL AND COMPUTER ENGINEERING SYSTEMS
+DE Multilevel Inverter; Electric Vehicle; Nearest Level Control; Total
+   Harmonic Distortion; Pulse Width Modulation
+PY 2024
+UT WOS:001267456200008
+ER
+
+PT J
+AU Bais, A
+   Amechnoue, K
+TI NEW APPROACHES TO MODELING RESILIENT DECISIONS UNDER DEEP UNCERTAINTY TO
+   MANAGE THE DOWNSTREAM SUPPLY CHAIN
+SO LOGFORUM
+DE Decision-making; strategic planning; resilience; supply chain
+   management; uncertainty
+PY 2024
+DI 10.17270/J.LOG.001030
+UT WOS:001249028200007
+ER
+
+PT J
+AU Rama, E
+   Ayache, M
+   Buchty, R
+   Bauer, B
+   Korb, M
+   Berekovic, M
+   Mulhem, S
+TI Trustworthy Integrated Circuits: From Safety to Security and Beyond
+SO IEEE ACCESS
+DE Security; Reliability; Safety; Circuit faults; Standards; Reliability
+   engineering; Trusted computing; Electronic design automation and
+   methodology; Integrated circuit synthesis; EDA; integrated circuit
+   design; reliability; safety; security; trustworthiness
+PY 2024
+DI 10.1109/ACCESS.2024.3400685
+UT WOS:001230518600001
+ER
+
+PT J
+AU Sami, MSU
+   Zhang, T
+   Shuvo, AM
+   Haque, MSU
+   Calzada, PE
+   Azar, KZ
+   Kamali, HM
+   Rahman, F
+   Farahmandi, F
+   Tehranipoor, M
+TI Advancing Trustworthiness in System-in-Package: A Novel Root-of-Trust
+   Hardware Security Module for Heterogeneous Integration
+SO IEEE ACCESS
+DE Heterogeneous integration; packaging technology; system-in-package;
+   chiplet; hardware security module; SiP security; supply chain security;
+   vulnerability mitigation
+PY 2024
+DI 10.1109/ACCESS.2024.3375874
+UT WOS:001197754500001
+ER
+
+PT J
+AU Nagapurkar, P
+   Nandy, P
+   Nimbalkar, S
+TI Cleaner Chips: Decarbonization in Semiconductor Manufacturing
+SO SUSTAINABILITY
+DE life cycle analysis; semiconductor manufacturing; marginal abatement
+   cost curves; sustainability assessments; decarbonization levers of
+   semiconductor manufacturing; information and communication technology
+PY 2024
+DI 10.3390/su16010218
+UT WOS:001140330900001
+ER
+
+PT J
+AU Ashby, TJ
+   Truffert, V
+   Cerbu, D
+   Ausschnitt, K
+   Charley, AL
+   Verachtert, W
+   Wuyts, R
+TI Machine Learning on Multiplexed Optical Metrology Pattern Shift Response
+   Targets to Predict Electrical Properties
+SO IEEE TRANSACTIONS ON SEMICONDUCTOR MANUFACTURING
+DE Semiconductor device measurement; Machine learning; Throughput;
+   Semiconductor device modeling; Predictive models; Performance
+   evaluation; Optical sensors; Metrology; high throughput; machine
+   learning; optical target; semiconductors; yield prediction; BEOL;
+   XGBoost
+PY 2024
+DI 10.1109/TSM.2023.3339330
+UT WOS:001167553100004
+ER
+
+PT J
+AU Lee, GT
+   Lim, HG
+   Wang, TH
+   Zhang, GJ
+   Jeong, MK
+TI Double bagging trees with weighted sampling for predictive maintenance
+   and management of etching equipment
+SO JOURNAL OF PROCESS CONTROL
+DE Bagging; predictive maintenance and; management; Semiconductor
+   manufacturing; Virtual metrology
+PY 2024
+DI 10.1016/j.jprocont.2024.103175
+UT WOS:001179372200001
+ER
+
+PT J
+AU Park, S
+   Seong, J
+   Park, Y
+   Noh, Y
+   Lee, HE
+   Bae, N
+   Roh, KB
+   Seo, R
+   Song, B
+   Kim, GH
+TI Data-driven plasma science based plasma etching process design in OLED
+   mass production referring to PI-VM
+SO PLASMA PHYSICS AND CONTROLLED FUSION
+DE plasma information; PI-VM; etching profile; plasma etching; plasma
+   process
+PY 2024
+DI 10.1088/1361-6587/ad1ae5
+UT WOS:001142822600001
+ER
+
+PT J
+AU Yu, Y
+   Ma, DP
+   Wang, Y
+TI Structural resilience evolution and vulnerability assessment of
+   semiconductor materials supply network in the global semiconductor
+   industry
+SO INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+DE Semiconductor material; Supply network; Structural resilience;
+   Vulnerability
+PY 2024
+DI 10.1016/j.ijpe.2024.109172
+UT WOS:001184407700001
+ER
+
+PT J
+AU So, PY
+   Liu, JM
+   Hung, CJ
+   Kuo, HC
+TI Impact of carbon pricing on the integrated green supply chain of the
+   semiconductor industry
+SO HELIYON
+DE Green supply chain; Carbon peaking; Carbon neutrality; Semiconductor
+   industry; Carbon pricing
+PY 2024
+DI 10.1016/j.heliyon.2024.e25633
+UT WOS:001187949800001
+ER
+
+PT J
+AU Wang, TH
+   Baek, J
+   Jeong, MK
+   Seo, S
+   Choi, J
+TI Multi-source AdaBoost with cross-weight method for virtual metrology in
+   semiconductor manufacturing
+SO INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+DE AdaBoost; multi-source data; sensor fusion; semiconductor manufacturing;
+   virtual metrology
+PY 2024
+DI 10.1080/00207543.2024.2318490
+UT WOS:001176319800001
+ER
+
+PT J
+AU Maitra, V
+   Su, YT
+   Shi, J
+TI Virtual metrology in semiconductor manufacturing: Current status and
+   future prospects
+SO EXPERT SYSTEMS WITH APPLICATIONS
+DE Virtual Metrology; Semiconductor Manufacturing; Artificial Intelligence;
+   Advanced Process Control; Predictive Algorithms
+PY 2024
+DI 10.1016/j.eswa.2024.123559
+UT WOS:001199389500001
+ER
+
+PT J
+AU Deivendran, B
+   Masampally, VS
+   Nadimpalli, NRV
+   Runkana, V
+TI Virtual metrology for chemical mechanical planarization of semiconductor
+   wafers
+SO JOURNAL OF INTELLIGENT MANUFACTURING
+DE Virtual metrology; Optimization; Soft sensors; Semiconductors; Machine
+   learning
+PY 2025
+DI 10.1007/s10845-024-02335-0
+UT WOS:001182049500001
+ER
+
+PT J
+AU Cao, J
+   Yang, WH
+   Liu, ZX
+   Chen, YY
+   Wei, X
+   Lin, N
+TI Controlling Edge Placement Error in Extreme Ultraviolet Lithography
+SO CHINESE JOURNAL OF LASERS-ZHONGGUO JIGUANG
+DE measurement; extreme ultra violet lithography light source; overlay;
+   optical proximity correction; alignment
+PY 2024
+DI 10.3788/CJL231470
+UT WOS:001224668300004
+ER
+
+PT J
+AU Solihin, W
+   Liu, ZW
+   Lu, YJ
+   Wei, L
+TI BIM-based automated rule-checking in the AECO industry: Learning from
+   semiconductor manufacturing
+SO AUTOMATION IN CONSTRUCTION
+DE Building Information Modeling (BIM); Rule-based system; AECO; Automatic
+   rule checking; Industry Foundation Classes (IFC); Interoperability;
+   Constructibility
+PY 2024
+DI 10.1016/j.autcon.2024.105406
+UT WOS:001225826600001
+ER
+
+PT J
+AU Corsini, RR
+   Costa, A
+   Fichera, S
+   Framinan, JM
+TI Digital twin model with machine learning and optimization for resilient
+   production-distribution systems under disruptions
+SO COMPUTERS & INDUSTRIAL ENGINEERING
+DE Supply chain; Digital twin; Resilience; Disruption; Time to recover;
+   COVID-19
+PY 2024
+DI 10.1016/j.cie.2024.110145
+UT WOS:001230570000001
+ER
+
+PT J
+AU Bui, TD
+TI Assessing sustainable supply chain transparency practices in Taiwan
+   semiconductor industry: A hierarchical interdependence approach.
+SO INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+DE Sustainable supply chain transparency; Transparency practices;
+   Semiconductor supply chain; Balance scorecards; Fuzzy decision -making
+   trial and evaluation; laboratory; Choquet integral
+PY 2024
+DI 10.1016/j.ijpe.2024.109245
+UT WOS:001230433800001
+ER
+
+PT J
+AU Zheng, DY
+   Song, H
+   Zhao, CG
+   Liu, YJ
+   Zhao, WH
+TI Is it possible for semiconductor companies to reduce carbon emissions
+   through digital transformation? Evidence from China
+SO INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+DE Digital transformation; Carbon mitigation; Innovation efficiency; Supply
+   chain configuration; Semiconductor industry
+PY 2024
+DI 10.1016/j.ijpe.2024.109246
+UT WOS:001234620600001
+ER
+
+PT J
+AU Hu, M
+   Liu, XX
+   Jia, F
+TI Optimal Emergency Order Policy for Supply Disruptions in the
+   Semiconductor Industry
+SO INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+DE Supply disruption; Semiconductor industry; Profits maximization;
+   Emergency ordering policy
+PY 2024
+DI 10.1016/j.ijpe.2024.109247
+UT WOS:001237209200001
+ER
+
+PT J
+AU Barbarese, F
+   Andreopoulou, ZS
+   Mattioli, W
+   Oreti, L
+   Carbone, F
+TI Combatting Climate Change within the EU Green Deal in Contemporary
+   Forestry Administrative Systems: A Case Study of the Umbria Region
+SO FORESTS
+DE digitalisation; information and communication technologies (ICTs);
+   digital forestry; life cycle assessment (LCA); carbon footprint;
+   forestry administrative procedures; digital platform
+PY 2024
+DI 10.3390/f15050745
+UT WOS:001232130900001
+ER
+
+PT J
+AU [Anonymous]
+TI Orion SA Maintains Gold Sustainability Rating by EcoVadis
+SO COATINGSTECH
+PY 2024
+UT WOS:001525857400015
+ER
+
+PT J
+AU Choi, JE
+   An, S
+   Lee, Y
+   Lee, Y
+   Kim, D
+   Hong, SJ
+TI Explainable artificial intelligence-based evidential inferencing on
+   process faults in plasma etching
+SO JOURNAL OF PHYSICS D-APPLIED PHYSICS
+DE fault detection and classification; machine learning; optical emission
+   spectroscopy; explainable artificial intelligence; plasma etching
+PY 2024
+DI 10.1088/1361-6463/ad2339
+UT WOS:001157418400001
+ER
+
+PT J
+AU Glencross, A
+TI The geopolitics of supply chains: EU efforts to ensure security of
+   supply
+SO GLOBAL POLICY
+PY 2024
+DI 10.1111/1758-5899.13388
+UT WOS:001215191800001
+ER
+
+PT J
+AU Moktadir, MA
+   Ren, JZ
+TI Global semiconductor supply chain resilience challenges and mitigation
+   strategies: A novel integrated decomposed fuzzy set Delphi, WINGS and
+   QFD model
+SO INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+DE Semiconductor supply chain; Resilience challenges; Mitigation
+   strategies; Decomposed fuzzy set Delphi; Decomposed fuzzy set WINGS;
+   Decomposed fuzzy set QFD
+PY 2024
+DI 10.1016/j.ijpe.2024.109280
+UT WOS:001298133600001
+ER
+
+PT J
+AU Budiman, AS
+   Putri, DNN
+   Candra, H
+   Djuana, E
+   Sari, TK
+   Aji, DPB
+   Putri, LR
+   Sitepu, E
+   Speaks, D
+   Pasang, T
+TI Crack Catcher AI - Enabling smart fracture mechanics approaches for
+   damage control of thin silicon cells or wafers
+SO SOLAR ENERGY MATERIALS AND SOLAR CELLS
+DE Smart stress sensing; Smart fracture sensing and prediction; Crack
+   cather AI; Damage control of thin silicon cell
+PY 2024
+DI 10.1016/j.solmat.2024.112927
+UT WOS:001264337100001
+ER
+
+PT J
+AU Fan, SKS
+   Chiu, SH
+TI A new ViT-Based augmentation framework for wafer map defect
+   classification to enhance the resilience of semiconductor supply chains
+SO INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+DE Semiconductor supply chain; Vision transformer (ViT); Data augmentation;
+   Wafer defect pattern classification; Deep learning
+PY 2024
+DI 10.1016/j.ijpe.2024.109275
+UT WOS:001244136600001
+ER
+
+PT J
+AU Shahzad, F
+   Ben Zaied, Y
+   Shahzad, MA
+   Mahmood, F
+TI Insights into the performance of green supply chain in the Chinese
+   semiconductor industry
+SO INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+DE Artificial intelligence capabilities; Digital transformation; Carbon
+   neutrality; Supply chain; Performance; Semiconductor firms
+PY 2024
+DI 10.1016/j.ijpe.2024.109286
+UT WOS:001248683300001
+ER
+
+PT J
+AU Zheng, WY
+   Liu, CD
+   Bai, Y
+   Liu, P
+   Li, RX
+TI Orientation-dependent High Harmonic Generation from h-BN (Invited)
+SO ACTA PHOTONICA SINICA
+DE High harmonic generation; Strong-field dynamics; Two dimensional
+   material; Orientation dependent; Angular shift
+PY 2024
+DI 10.3788/gzxb20245306.0653210
+UT WOS:001267888100025
+ER
+
+PT J
+AU Wang, C
+   Zhang, TY
+   Jia, J
+   Wang, J
+   Ren, S
+TI Complex Network-Based Resilience Assessment of the Integrated Circuit
+   Industry Chain
+SO SUSTAINABILITY
+DE industrial chain; complex network theory; integrated circuit industry;
+   industrial chain cooperation; industrial chain resilience assessment
+PY 2024
+DI 10.3390/su16125163
+UT WOS:001256146800001
+ER
+
+PT J
+AU Guo, P
+   Miao, H
+   Zou, YB
+   Mao, SF
+   Ding, ZJ
+TI Application of a machine learning method to model-based library approach
+   for critical dimension measurements using CD-SEM
+SO MEASUREMENT SCIENCE AND TECHNOLOGY
+DE CD-SEM; MBL; Monte Carlo; machine learning; neural network
+PY 2024
+DI 10.1088/1361-6501/ad2b44
+UT WOS:001176686300001
+ER
+
+PT J
+AU Fleisch, L
+   von Dzengelevski, O
+TI Supply chain resilience and international manufacturing strategy: a case
+   study from the semiconductor industry
+SO JOURNAL OF MANUFACTURING TECHNOLOGY MANAGEMENT
+DE Supply chain resilience; International manufacturing networks;
+   Manufacturing strategy; Semiconductor industry; System dynamics
+PY 2024
+DI 10.1108/JMTM-03-2023-0091
+UT WOS:001244215800001
+ER
+
+PT J
+AU Sato, R
+   Li, KY
+   Michihata, M
+   Takahashi, S
+   Gao, W
+TI Advanced Sensing and Machine Learning Technologies for Intelligent
+   Measurement in Smart and Precision Manufacturing
+SO INTERNATIONAL JOURNAL OF AUTOMATION TECHNOLOGY
+DE intelligent measurement; sensing; machine learning; dimensional
+   metrology; process monitoring
+PY 2024
+DI 10.20965/ijat.2024.p0545
+UT WOS:001265020700011
+ER
+
+PT J
+AU Tsao, YC
+   Balo, HT
+   Lee, CKH
+TI Resilient and sustainable semiconductor supply chain network design
+   under trade credit and uncertainty of supply and demand
+SO INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+DE Resilience; Sustainability; Supply chain network design; Multi
+   -objective optimization; Trade credit; Semiconductor
+PY 2024
+DI 10.1016/j.ijpe.2024.109318
+UT WOS:001265509800001
+ER
+
+PT J
+AU Chaudhuri, R
+   Singh, B
+   Agrawal, AK
+   Chatterjee, S
+   Gupta, S
+   Mangla, SK
+TI A TOE-DCV approach to green supply chain adoption for sustainable
+   operations in the semiconductor industry
+SO INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+DE Green supply chain; Semiconductor industry; Sustainability; Dynamic
+   capability; Risk; Resilience
+PY 2024
+DI 10.1016/j.ijpe.2024.109327
+UT WOS:001267848400001
+ER
+
+PT J
+AU Zhang, X
+   Bai, SJ
+   Goh, M
+   Guo, YT
+TI Climate and geopolitical risk correlations and response decisions for
+   semiconductor global supply chains
+SO COMPUTERS & INDUSTRIAL ENGINEERING
+DE Resilience; Climate risk; Geopolitics risk; Game theory; Project
+   interdependency; Risk correlations
+PY 2024
+DI 10.1016/j.cie.2024.110358
+UT WOS:001269522900001
+ER
+
+PT J
+AU Genta, G
+   Maculotti, G
+TI Thin coatings thickness measurement by augmented nanoindentation data
+   fusion
+SO CIRP ANNALS-MANUFACTURING TECHNOLOGY
+DE Nano indentation; Coating; Machine learning
+PY 2024
+DI 10.1016/j.cirp.2024.04.093
+UT WOS:001277847800001
+ER
+
+PT J
+AU Chen, ZF
+   Wang, ZD
+   Lou, JJ
+   Chen, QN
+   Jiang, C
+   Xia, J
+   Lu, QY
+   Guo, WH
+TI Thermo-Optically Tuned Multi-Channel Interference Wide-Range Tunable
+   Laser (Invited)
+SO ACTA OPTICA SINICA
+DE integrated optics; semiconductor laser; tunable laser; microcontroller
+   unit; temperature control; wavelength locking
+PY 2024
+DI 10.3788/AOS240955
+UT WOS:001289079800012
+ER
+
+PT J
+AU Britsche, A
+   Fekete, M
+TI Supply Chain Resilience in the European Automotive Industry
+SO MANAGEMENT SYSTEMS IN PRODUCTION ENGINEERING
+DE automotive oem; supply chain management; risk management; electric
+   automobility; supply chain resilience; supply chain law
+PY 2024
+DI 10.2478/mspe-2024-0036
+UT WOS:001307941400007
+ER
+
+PT J
+AU Genzardi, D
+   Carmona, EN
+   Poeta, E
+   Gai, FCS
+   Caruso, I
+   Fiorilla, E
+   Schiavone, A
+   Sberveglieri, V
+TI Unraveling the Chicken Meat Volatilome with Nanostructured Sensors:
+   Impact of Live and Dehydrated Insect Larvae Feeding
+SO SENSORS
+DE nanomaterials; MOX sensors; nanotechnologies; IoT applications; insect
+   feeding; food quality
+PY 2024
+DI 10.3390/s24154921
+UT WOS:001286885100001
+ER
+
+PT J
+AU Tse, YK
+   Dong, KY
+   Sun, RQ
+   Mason, R
+TI Recovering from geopolitical risk: An event study of Huawei's
+   semiconductor supply chain
+SO INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+DE Semiconductor supply chain; Sanction; Supply disruption; Resilient
+   practice; Propagation effect
+PY 2024
+DI 10.1016/j.ijpe.2024.109347
+UT WOS:001286581100001
+ER
+
+PT J
+AU Wang, Y
+   Chan, EA
+   Rendón-Barraza, C
+   Shen, YJ
+   Plum, E
+   Ou, JY
+TI 2D Super-Resolution Metrology Based on Superoscillatory Light
+SO ADVANCED SCIENCE
+DE machine learning; optical metrology; structured light; superoscillatory
+   light; super-resolution
+PY 2024
+DI 10.1002/advs.202404607
+UT WOS:001283257500001
+ER
+
+PT J
+AU Xiong, W
+   Wu, DD
+   Yeung, JHY
+TI Semiconductor supply chain resilience and disruption: insights,
+   mitigation, and future directions
+SO INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+DE Semiconductor industry; supply chain management; literature review;
+   supply chain resilience; disruption risk; SDG 9: Industry innovation and
+   infrastructure
+PY 2025
+DI 10.1080/00207543.2024.2387074
+UT WOS:001291218200001
+ER
+
+PT J
+AU Shao, YF
+   Weerdenburg, S
+   Seifert, J
+   Urbach, HP
+   Mosk, AP
+   Coene, W
+TI Wavelength-multiplexed multi-mode EUV reflection ptychography based on
+   automatic differentiation
+SO LIGHT-SCIENCE & APPLICATIONS
+PY 2024
+DI 10.1038/s41377-024-01558-3
+UT WOS:001294142400002
+ER
+
+PT J
+AU Kumar, D
+   Soni, G
+   Mangla, SK
+   Liao, JJ
+   Rathore, APS
+   Kazancoglu, Y
+TI Integrating resilience and reliability in semiconductor supply chains
+   during disruptions
+SO INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+DE Semiconductor supply chain; Supply chain reliability; Supply chain
+   resilience; Disruption; Supplier
+PY 2024
+DI 10.1016/j.ijpe.2024.109376
+UT WOS:001299593900001
+ER
+
+PT J
+AU Zeng, ZN
+TI Generation of Ultrafast Extreme Ultraviolet Light Source and its
+   Applications in Semiconductor Detection (Invited)
+SO ACTA OPTICA SINICA
+DE ultrafast optics; extreme ultraviolet light source; imaging detection;
+   semiconductor
+PY 2024
+DI 10.3788/AOS241119
+UT WOS:001362910700001
+ER
+
+PT J
+AU Wang, H
+   Li, CX
+   Li, YF
+TI Large-Scale Visual Language Model Boosted by Contrast Domain Adaptation
+   for Intelligent Industrial Visual Monitoring
+SO IEEE TRANSACTIONS ON INDUSTRIAL INFORMATICS
+DE Defect detection; industrial visual monitoring (IVM); large
+   vision-language model (LVLM); semiconductor manufacturing
+PY 2024
+DI 10.1109/TII.2024.3441638
+UT WOS:001308148900001
+ER
+
+PT J
+AU Liu, Q
+   Xue, DS
+   Li, W
+TI A Sustainable Production Segment of Global Value Chain View on
+   Semiconductors in China: Temporal and Spatial Evolution and Investment
+   Network
+SO SUSTAINABILITY
+DE global value chain; sustainable development; industrial resilience;
+   semiconductor; China; distribution pattern; investment network
+PY 2024
+DI 10.3390/su16198617
+UT WOS:001333004700001
+ER
+
+PT J
+AU Rasmussen, EG
+   Wilthan, B
+TI Speed of sound for understanding metals in extreme environments
+SO APPLIED PHYSICS REVIEWS
+PY 2024
+DI 10.1063/5.0186669
+UT WOS:001330318900002
+ER
+
+PT J
+AU Dendouga, A
+TI Emergence of an Improved Version of the PSO Technique for Optimization
+   of Damped Input Filter for Direct Matrix Converter
+SO ARABIAN JOURNAL FOR SCIENCE AND ENGINEERING
+DE Direct matrix converter; Venturini modulation; SVM; Damped input filter;
+   Linearly varying acceleration coefficients PSO; Induction motor
+PY 2025
+DI 10.1007/s13369-024-09594-2
+UT WOS:001329526800002
+ER
+
+PT J
+AU Farrand, B
+TI The Economy-Security Nexus: Risk, Strategic Autonomy and the Regulation
+   of the Semiconductor Supply Chain
+SO EUROPEAN JOURNAL OF RISK REGULATION
+DE digital sovereignty; security; semiconductors; strategic autonomy
+PY 2025
+DI 10.1017/err.2024.63
+UT WOS:001336586100001
+ER
+
+PT J
+AU Ma, JY
+   Zhan, XH
+   Wang, S
+   Yin, ZQ
+   Chen, W
+   Guo, GC
+   Han, ZF
+TI Theoretical analysis for estimating laser integrated linewidth via
+   frequency-noise power spectral density
+SO OPTICS LETTERS
+PY 2024
+DI 10.1364/OL.540021
+UT WOS:001354502700005
+ER
+
+PT J
+AU Stadtfeld, GM
+   Lienemann, R
+   Gruchmann, T
+TI An analysis of digital twin technologies enhancing supply chain
+   viability: empirical evidence from multiple cases
+SO PRODUCTION PLANNING & CONTROL
+DE Supply chain viability; digital supply chain management; digital twin
+   technologies; practice-based view; case study research
+PY 2025
+DI 10.1080/09537287.2024.2415418
+UT WOS:001333031400001
+ER
+
+PT J
+AU Chen, D
+   Zhang, J
+   Wu, BL
+   Zhang, P
+   Wang, M
+TI Industrial data space application framework for semiconductor wafer
+   manufacturing system scheduling
+SO JOURNAL OF MANUFACTURING SYSTEMS
+DE Industrial data space; Semiconductor wafer manufacturing system; Shop
+   floor scheduling; Elemental correlation analysis; Knowledge learning
+PY 2024
+DI 10.1016/j.jmsy.2024.09.013
+UT WOS:001339590300001
+ER
+
+PT J
+AU Ou, FY
+   Wang, HR
+   Zhang, C
+   Tom, M
+   Bom, S
+   Davis, JF
+   Christofides, PD
+TI Industrial data-driven machine learning soft sensing for optimal
+   operation of etching tools
+SO DIGITAL CHEMICAL ENGINEERING
+DE machine learning; Soft sensing; Optimal operation; Industrial tools;
+   Oxide etching; Semiconductor manufacturing
+PY 2024
+DI 10.1016/j.dche.2024.100195
+UT WOS:001345745100001
+ER
+
+PT J
+AU Xue, F
+   Yuan, SF
+   Shen, YN
+   Su, R
+   Fu, X
+   Xu, N
+TI Research on adaptive damper based on cone-slide valve combination
+   regulation principle
+SO FLOW MEASUREMENT AND INSTRUMENTATION
+DE Fluid pulsation damper; Cone-slide valve regulation; Pulsation
+   absorption rate; Adaptive
+PY 2024
+DI 10.1016/j.flowmeasinst.2024.102722
+UT WOS:001346118700001
+ER
+
+PT J
+AU Wang, P
+   Zhang, LY
+   Tzachor, A
+   Chen, WQ
+TI E-waste challenges of generative artificial intelligence
+SO NATURE COMPUTATIONAL SCIENCE
+PY 2024
+DI 10.1038/s43588-024-00712-6
+UT WOS:001345220300002
+ER
+
+PT J
+AU Choi, J
+   Son, Y
+   Kang, J
+TI Group-Exclusive Feature Group Lasso and Applications to Automatic Sensor
+   Selection for Virtual Metrology in Semiconductor Manufacturing
+SO IEEE TRANSACTIONS ON SEMICONDUCTOR MANUFACTURING
+DE group sparsity; regularization; Group exclusivity; sensor selection;
+   sensor selection; virtual metrology; virtual metrology; sensor
+   selection; virtual metrology
+PY 2024
+DI 10.1109/TSM.2024.3444720
+UT WOS:001363164100024
+ER
+
+PT J
+AU Baikadamova, A
+   Yevlampiyeva, Y
+   Orynbekov, D
+   Idyryshev, B
+   Igenbayev, A
+   Amirkhanov, S
+   Shayakhmetova, M
+TI The effectiveness of implementing the HACCP system to ensure the quality
+   of food products in regions with ecological problems
+SO FRONTIERS IN SUSTAINABLE FOOD SYSTEMS
+DE meat-processing enterprise; HACCP; meat pate; ecology; quality of food
+   products
+PY 2024
+DI 10.3389/fsufs.2024.1441479
+UT WOS:001364041500001
+ER
+
+PT J
+AU Wang, L
+   Deng, TH
+   Li, QF
+TI Can feature removal benefit the automotive manufacturers amid supply
+   shortages? An analytical investigation
+SO OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+DE Supply shortage; Feature removal; Automotive industry; Supply chain
+   viability
+PY 2025
+DI 10.1016/j.omega.2024.103227
+UT WOS:001367431700001
+ER
+
+PT J
+AU Böcher, C
+   Sprecher, B
+   Fishman, T
+TI Integrating material flow analysis and supply chain resilience analysis
+   to study silicon carbide
+SO JOURNAL OF INDUSTRIAL ECOLOGY
+DE abrasives; energy-intensive; industrial ecology; industrial materials;
+   refractories; semiconductors
+PY 2024
+DI 10.1111/jiec.13541
+UT WOS:001382111400001
+ER
+
+PT J
+AU Lee, CY
+   Li, YW
+   Chang, CC
+TI Multi-agent reinforcement learning for chiller system prediction and
+   energy-saving optimization in semiconductor manufacturing
+SO INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+DE Chiller energy saving; Multi-setpoint controller; Meta-prediction;
+   Multi-agent reinforcement learning; Semiconductor manufacturing
+PY 2025
+DI 10.1016/j.ijpe.2024.109488
+UT WOS:001434887300001
+ER
+
+PT J
+AU Venkatesan, S
+   Cullinan, MA
+   Baldea, M
+TI Recent advances in continuous nanomanufacturing: focus on machine
+   learning-driven process control
+SO REVIEWS IN CHEMICAL ENGINEERING
+DE nanomanufacturing; roll-to-roll processing; process control; machine
+   learning; inspection and quality control; metrology
+PY 2025
+DI 10.1515/revce-2024-0029
+UT WOS:001370540800001
+ER
+
+PT J
+AU Zhou, FL
+   Zhang, CC
+   Tiwari, S
+   Huang, XJ
+   Pratap, S
+TI Decision and coordination of WEEE closed-loop supply chain with risk
+   aversion under the cap-and-trade regulation
+SO INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+DE Heterogeneity of collection quality; Carbon cap-and-trade regulation
+   (CATR); Stackelberg game model; Risk aversion; Revenue sharing and cost
+   allocation contract
+PY 2025
+DI 10.1016/j.ijpe.2024.109477
+UT WOS:001392945800001
+ER
+
+PT J
+AU Rolf, S
+   Baines, J
+   Germann, J
+   Starrs, S
+TI The geographies and geopolitics of industrial policy: Designing a
+   data-driven UK semiconductor strategy
+SO EUROPEAN URBAN AND REGIONAL STUDIES
+DE Geopolitics; global production networks; industrial policy; political
+   economy; semiconductors; United Kingdom
+PY 2025
+DI 10.1177/09697764241303838
+UT WOS:001381705100001
+ER
+
+PT J
+AU Tian, H
+   Liu, JQ
+   Attanasio, A
+   Siddharth, A
+   Blésin, T
+   Wang, RN
+   Voloshin, A
+   Lihachev, G
+   Riemensberger, J
+   Kenning, SE
+   Tian, Y
+   Chang, TH
+   Bancora, A
+   Snigirev, V
+   Shadymov, V
+   Kippenberg, TJ
+   Bhave, SA
+TI Piezoelectric actuation for integrated photonics
+SO ADVANCES IN OPTICS AND PHOTONICS
+PY 2024
+DI 10.1364/AOP.529288
+UT WOS:001390465900001
+ER
+
+PT J
+AU Zhang, LT
+   Liu, MY
+   Yuan, HJ
+   Wang, H
+TI AI-driven new materials development and data standardization
+SO CHINESE SCIENCE BULLETIN-CHINESE
+DE artificial intelligence; autonomous or self-driving lab; materials
+   design; data standardization; data-driven
+PY 2025
+DI 10.1360/CSB-2025-0397
+UT WOS:001691554000009
+ER
+
+PT J
+AU Bignami, EG
+   Russo, M
+   Semeraro, F
+   Bellini, V
+TI Balancing Innovation and Control: The European Union AI Act in an Era of
+   Global Uncertainty
+SO JMIR AI
+DE EU AI Act; health care innovation; geopolitics; trade tariffs;
+   regulatory sandboxes; AI ethics; supply chain; resilience; European
+   Union Artificial Intelligence; Artificial Intelligence ethics
+PY 2025
+DI 10.2196/75527
+UT WOS:001614875500001
+ER
+
+PT J
+AU [Anonymous]
+TI EcoVadis Gold Medal won
+SO FLEISCHWIRTSCHAFT
+PY 2025
+UT WOS:001573742800042
+ER
+
+PT J
+AU Coronado, PJ
+   Gallegos, EE
+TI Defining Medical Device Ecosystems: A Systematic Literature Review
+SO IEEE ACCESS
+DE Ecosystems; Medical devices; Medical services; Systematic literature
+   review; ISO Standards; Databases; Stakeholders; Internet; Portable
+   document format; Industries; Biomedical engineering; healthcare systems;
+   literature review; manufacturing; medical devices; network analysis;
+   regulations; stakeholder analysis; systems engineering; text mining
+PY 2025
+DI 10.1109/ACCESS.2025.3615110
+UT WOS:001591699200028
+ER
+
+PT J
+AU Schroeder, P
+   Charter, M
+   Barrie, J
+TI Circularity of Semiconductor Chip Value Chains: Advancing AI
+   Sustainability Amid Geopolitical Tensions
+SO JOURNAL OF CIRCULAR ECONOMY
+DE Semiconductors; AI; Circularity; Environmental Feedback Loops; Value
+   Chains; Critical Raw Materials; Geopolitical Risk
+PY 2025
+DI 10.55845/MNTS1778
+UT WOS:001582470400003
+ER
+
+PT J
+AU Lin, CY
+   Tseng, TL
+   Tsai, TH
+TI CLARiC: Contrastive Learning and Root-Cause Inference With Causality for
+   Explainable Smart Manufacturing
+SO IEEE ACCESS
+DE Semiconductor device modeling; Contrastive learning; Anomaly detection;
+   Smart manufacturing; Predictive models; Pipelines; Correlation; Cause
+   effect analysis; Performance evaluation; Feedback loop; causal inference
+   (CI); contrastive learning (CL); explainable AI (XAI); root-cause
+   analysis (RCA); smart manufacturing
+PY 2025
+DI 10.1109/ACCESS.2025.3607848
+UT WOS:001575778800001
+ER
+
+PT J
+AU Shafiei, SH
+   Kavian, YS
+   Ansari-Asl, K
+TI A New 19-Level Switched Capacitor Multilevel Inverter With Self-Managing
+   Voltage Balance
+SO IEEE ACCESS
+DE Capacitors; Switches; Multilevel inverters; Topology; Circuits; Stress;
+   Semiconductor diodes; Renewable energy sources; Reliability; Modulation;
+   Efficiency; harmonic distortion; multilevel inverter; renewable energy;
+   reliability; switched capacitor; voltage levels
+PY 2025
+DI 10.1109/ACCESS.2025.3603781
+UT WOS:001566993600007
+ER
+
+PT J
+AU Lin, CY
+   Tseng, TL
+   Xu, HL
+TI GPT-Augmented Bayesian Reinforcement Learning Framework for
+   Multiobjective Supplier Selection
+SO IEEE TRANSACTIONS ON ENGINEERING MANAGEMENT
+DE Bayes methods; Supply chains; Semantics; Reinforcement learning;
+   Real-time systems; Sustainable development; Costs; Resource management;
+   Resilience; Risk management; Bayesian belief network (BBN); Bayesian
+   best-worst method (BWM); ESG sustainability; GPT; large language models
+   (LLMs); multiobjective optimization; NSGA-II; reinforcement learning
+   (RL); supplier selection; supply chain risk
+PY 2025
+DI 10.1109/TEM.2025.3603183
+UT WOS:001574174600002
+ER
+
+PT J
+AU Manivel, M
+   Subramani, S
+   Balasubramanian, L
+   Thiagarajan, BP
+   Vijayalakshmi, VJ
+   Palani, L
+   Tamilselvan, K
+TI Design and Performance Analysis of New Seventeen Level Reduced Switch
+   Count Multilevel Inverter
+SO ENGINEERING JOURNAL-THAILAND
+DE Multilevel inverter; nearest level control; total harmonic distortion;
+   pulse width modulation; cost function; total standing voltage
+PY 2025
+DI 10.4186/ej.2025.29.6.29
+UT WOS:001526941600003
+ER
+
+PT J
+AU Fan, SKS
+   Zheng, AT
+TI A Novel Rolling-Window and Production-Maintenance-Based Machine Learning
+   Approach to Virtual Metrology in Semiconductor Manufacturing
+SO IEEE TRANSACTIONS ON AUTOMATION SCIENCE AND ENGINEERING
+DE Metrology; Production; Semiconductor device modeling; Semiconductor
+   device manufacture; Feature extraction; Predictive models; Data models;
+   Training; Semiconductor device measurement; Encoding; Virtual metrology;
+   machine learning; rolling-window; production maintenance; chemical vapor
+   deposition processes
+PY 2025
+DI 10.1109/TASE.2025.3570863
+UT WOS:001499531700001
+ER
+
+PT J
+AU Lin, CY
+   Tseng, TL
+   Emon, SH
+   Tsai, TH
+TI Large Pre-Trained Models and Few-Shot Fine-Tuning for Virtual Metrology:
+   A Framework for Uncertainty-Driven Adaptive Process Control in
+   Semiconductor Manufacturing
+SO IEEE TRANSACTIONS ON AUTOMATION SCIENCE AND ENGINEERING
+DE Semiconductor device measurement; Metrology; Semiconductor device
+   modeling; Semiconductor process modeling; Uncertainty; Adaptation
+   models; Accuracy; Data models; Predictive models; Manufacturing;
+   Semiconductor manufacturing; virtual metrology; generative modeling;
+   few-shot learning; active sampling; meta-learning; variational
+   autoencoder (VAE); generative adversarial network (GAN); transformers;
+   uncertainty estimation; advanced process control (APC)
+PY 2025
+DI 10.1109/TASE.2025.3568010
+UT WOS:001494111500002
+ER
+
+PT J
+AU Mansour, M
+   Abdel-Moneim, MG
+   Abdel-Khalik, AS
+   Ahmed, S
+   Ahmed, KH
+TI New Monolithic Modular DC-DC Converter for Constant Current Offshore
+   Interconnection With VSC HVdc Network
+SO IEEE ACCESS
+DE Modular multilevel converter (MMC); monolithic; dc-dc converters; dc-dc
+   converters; hybrid power elec-tronic devices; IGCT; HVdc; HVdc; power
+   control; power control; current source; current source; current source
+PY 2025
+DI 10.1109/ACCESS.2025.3562802
+UT WOS:001479471700048
+ER
+
+PT J
+AU Sharma, DD
+   Kim, NS
+TI Special Issue on Interconnects for Chiplet Integration Technologies
+SO IEEE MICRO
+DE Special issues and sections; Interconnected systems; Chiplets;
+   Artificial intelligence; Semiconductor device manufacture; Silicon;
+   Interoperability; Performance evaluation
+PY 2025
+DI 10.1109/MM.2025.3534457
+UT WOS:001443189700009
+ER
+
+PT J
+AU Li, L
+   Wang, H
+   Li, ZY
+   Hu, SD
+TI Analysis of the structure and robustness of the global semiconductor
+   trade network
+SO PLOS ONE
+PY 2025
+DI 10.1371/journal.pone.0313162
+UT WOS:001401710000045
+ER
+
+PT J
+AU Song, SH
+   Chang, K
+   Park, C
+   Baek, JG
+TI Switch ON/OFF learning of one-dimensional convolutional neural network
+   and one-dimensional generative adversarial network for fault detection
+SO JOURNAL OF INTELLIGENT MANUFACTURING
+DE Fault detection; Data imbalance problem; One-dimensional convolutional
+   neural network; One-dimensional generative adversarial network;
+   <italic>Switch ON/OFF</italic> learning
+PY 2026
+DI 10.1007/s10845-024-02557-2
+UT WOS:001394096100001
+ER
+
+PT J
+AU Liao, ZW
+   Tantai, B
+   Abdul-Hamid, AQ
+   Mukhtar, D
+   Ali, MH
+TI Exploring resilience in the downstream supply chain of the semiconductor
+   industry: The mediating roles of risk mitigation, process
+   simplification, and flexibility
+SO INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+DE Supply chain resilience; Supply chain flexibility; Semiconductor;
+   Process simplification; Risk mitigation competency
+PY 2025
+DI 10.1016/j.ijpe.2025.109530
+UT WOS:001411505700001
+ER
+
+PT J
+AU Hsieh, CC
+   Rachmawati, NL
+   Lin, YC
+TI Coordinating remanufacturing efforts for sustainable chemical supply in
+   semiconductor supply chains
+SO COMPUTERS & INDUSTRIAL ENGINEERING
+DE Remanufacturing; Semiconductor supply chain; Waste reuse; Carbon
+   emission; Coordination; Nash bargaining
+PY 2025
+DI 10.1016/j.cie.2025.110895
+UT WOS:001410626500001
+ER
+
+PT J
+AU Sriprateep, K
+   Pitakaso, R
+   Khonjun, S
+   Enkvetchakul, P
+   Jirasirilerd, G
+   Gonwirat, S
+TI Sustainable and resilient semiconductor supply chain optimization via
+   hybrid deep reinforcement and generative learning
+SO COMPUTERS & INDUSTRIAL ENGINEERING
+DE Semiconductor manufacturing; Fuzzy multi-objective optimisation; Deep
+   reinforcement learning; AI-driven supply chain optimisation; Sustainable
+   and resilient operations
+PY 2026
+DI 10.1016/j.cie.2025.111583
+UT WOS:001598771300002
+ER
+
+PT J
+AU Chen, MC
+   Pang, SS
+   Su, SY
+TI Sustainable global semiconductor supply chain network design considering
+   ESG
+SO TECHNOLOGY IN SOCIETY
+DE Global supply chain network design; Sustainable supply chain;
+   Semiconductor supply chain; ESG; Carbon policy
+PY 2025
+DI 10.1016/j.techsoc.2025.102829
+UT WOS:001423781400001
+ER
+
+PT J
+AU Zhao, JG
+   Han, X
+   Dong, F
+   Liu, S
+TI Innovative multiscale simulation with experimental validation of
+   ultrafast laser processing in silicon carbide (4H-SiC)
+SO JOURNAL OF MANUFACTURING PROCESSES
+DE Laser ablation; Multiscale simulation; Multi-photon ionization
+PY 2025
+DI 10.1016/j.jmapro.2025.02.002
+UT WOS:001424050400001
+ER
+
+PT J
+AU Duan, JN
+   Jin, ZY
+   Qu, LC
+TI Research Progress on Applications of 1.3 μm Quantum Dot Lasers (Invited)
+SO CHINESE JOURNAL OF LASERS-ZHONGGUO JIGUANG
+DE semiconductor lasers; quantum dots; integrated optics; laser dynamics
+PY 2025
+DI 10.3788/CJL241087
+UT WOS:001480577700003
+ER
+
+PT J
+AU Cho, I
+   Kim, S
+   Yoo, M
+TI Analyzing GHG emission forecasting in Korea's semiconductor and display
+   industries using grey model
+SO SUSTAINABLE FUTURES
+DE GHG emission; Forecasting; Grey model; Advanced technology industry;
+   Supply chain company
+PY 2025
+DI 10.1016/j.sftr.2025.100512
+UT WOS:001445266600001
+ER
+
+PT J
+AU Vikas
+   Kumar, K
+   Jewariya, M
+   Kumar, R
+   Titus, SSK
+   Gautam, SK
+TI Robust and precision small-angle measurement through the speckle pattern
+   imaging technique
+SO APPLIED OPTICS
+PY 2025
+DI 10.1364/AO.530304
+UT WOS:001510209700012
+ER
+
+PT J
+AU Kaitwanidvilai, S
+   Sittisombut, C
+   Huang, Y
+   Bom, S
+TI Optimizing Product Quality Prediction in Smart Manufacturing Through
+   Parameter Transfer Learning: A Case Study in Hard Disk Drive
+   Manufacturing
+SO PROCESSES
+DE transfer learning; virtual metrology; wafer technology; data-driven;
+   soft-sensing; quality prediction
+PY 2025
+DI 10.3390/pr13040962
+UT WOS:001474588700001
+ER
+
+PT J
+AU Jing, S
+   Fu, WH
+TI Integrated optimization approach for skill-aware and collaborative IC
+   design portfolios decision to enhance R&D project effectiveness and
+   resilience
+SO COMPUTERS & INDUSTRIAL ENGINEERING
+DE Integrated circuit design; Project portfolio decision; R & D resource
+   allocation; Machine learning; Digital decision making; Digital decision
+   making
+PY 2026
+DI 10.1016/j.cie.2025.111765
+UT WOS:001649418100001
+ER
+
+PT J
+AU Chen, MZ
+   An, XQ
+   Ki, SJ
+   Liu, XR
+   Sekhon, N
+   Boyarov, A
+   Acharya, A
+   Tawil, J
+   Bederman, M
+   Liang, XG
+TI Nanoelectronics-enabled reservoir computing hardware for real-time
+   robotic controls
+SO SCIENCE ADVANCES
+PY 2025
+DI 10.1126/sciadv.adu2663
+UT WOS:001452876500033
+ER
+
+PT J
+AU Wu, CH
+TI Taiwan's Economic Security in the Shadow of Chips Nationalism
+SO JOURNAL OF WORLD TRADE
+DE CHIPS Act; nationalism; economic security; Taiwan
+PY 2025
+DI 10.54648/trad2025019
+UT WOS:001424831100005
+ER
+
+PT J
+AU Li, CY
+   Fu, WW
+   Liu, JH
+   Li, DL
+   Wu, SJ
+   Wang, NL
+   Ren, KL
+TI Spectral Confocal Displacement Measurement Method Based on SNV
+   Correction of Surface Roughness
+SO ACTA PHOTONICA SINICA
+DE Surface roughness; Spectral confocal; Scattering; SVM algorithm; SNV
+   method
+PY 2025
+DI 10.3788/gzxb20255404.0412002
+UT WOS:001487980600006
+ER
+
+PT J
+AU Wang, GP
+   Yu, XN
+   Wang, GY
+   Kong, XL
+   Li, Z
+   Xie, YH
+   Liu, K
+TI Research on the influence of intake structure on Local-Scrubber
+   combustion process
+SO CHEMICAL ENGINEERING JOURNAL
+DE Local-Scrubber; Semiconductor process; Exhaust gas treatment; Combustion
+   process; Intake structure
+PY 2025
+DI 10.1016/j.cej.2025.162126
+UT WOS:001461173200001
+ER
+
+PT J
+AU Liu, RC
+   Tang, HW
+   Kao, YC
+   Chou, YT
+TI From vulnerabilities to resilience: Taiwan's semiconductor industry and
+   geopolitical challenges
+SO TELECOMMUNICATIONS POLICY
+DE Semiconductor supply chain; Resilience strategy; Quarantine; Blockade;
+   Diversification; Stockpiling; Triad cross-platform model
+PY 2025
+DI 10.1016/j.telpol.2025.102951
+UT WOS:001466010200001
+ER
+
+PT J
+AU Li, JH
+   Qi, FK
+   Li, CQ
+   Tang, LN
+   Li, YT
+   Liu, YW
+   Li, YW
+   Zhang, GJ
+TI MXene-enhanced detachable transistor neuroprobe for real-time monitoring
+   of serotonin dynamics in human organoids and living brains
+SO CHEMICAL ENGINEERING JOURNAL
+DE Extended-gate FET; Acupuncture needle; MXene; 5-HT; In vivo
+PY 2025
+DI 10.1016/j.cej.2025.162542
+UT WOS:001473200200001
+ER
+
+PT J
+AU Sadiq, FK
+   Sadiq, AA
+   Matsika, TA
+   Momoh, BA
+TI Sustainable remediation of persistent organic Pollutants: A review on
+   Recent innovative technologies
+SO CURRENT RESEARCH IN BIOTECHNOLOGY
+DE Degradation; Nanotechnology; Advanced Oxidation Processes;
+   Photocatalysis; Environmental pollution
+PY 2025
+DI 10.1016/j.crbiot.2025.100293
+UT WOS:001480522600001
+ER
+
+PT J
+AU Wang, SY
+   Ma, L
+TI Climate risk and green innovation in semi-conductor industry: Do supply
+   chain concentration and resilience matter?
+SO COMPUTERS & INDUSTRIAL ENGINEERING
+DE Climate risks; Green innovation; Supply chain concentration; Corporate
+   resilience capacity; Panel threshold model; Semi-conductor industry
+PY 2025
+DI 10.1016/j.cie.2025.111152
+UT WOS:001483731600001
+ER
+
+PT J
+AU Truong, VB
+   Herrero, AF
+   Andrle, K
+   Soltwisch, V
+   Hönicke, P
+TI Machine Learning-Accelerated Reconstruction of Periodic Nanostructures
+   with X-ray Fluorescence Spectroscopy Methods
+SO ADVANCED MATERIALS INTERFACES
+DE finite element method; machine learning; nanostructure characterization;
+   neural network; X-ray fluorescence
+PY 2025
+DI 10.1002/admi.202400898
+UT WOS:001478494800001
+ER
+
+PT J
+AU Wu, AY
+TI SCIENCE DIPLOMACY IN HORIZON EUROPEA PROGRAM: TAIWAN<acute accent>S TSMC
+   AS AN EXAMPLE FOR STRENGTHENING EU-TAIWAN RELATIONS
+SO REVISTA UNISCI
+DE European Union; Horizon Europe; Science Diplomacy; TSMC
+PY 2025
+DI 10.31439/UNISCI-237
+UT WOS:001498471200010
+ER
+
+PT J
+AU Sim, HE
+   Lee, MU
+   Hong, SJ
+TI Virtual Metrology of Multiple Dielectric Layer Thickness for 3D-NAND
+   Deposition Process
+SO IEEE TRANSACTIONS ON SEMICONDUCTOR MANUFACTURING
+DE Plasmas; Dielectrics; Process control; Transmission electron microscopy;
+   Monitoring; Explainable AI; Electrons; Temperature sensors;
+   Semiconductor device measurement; Radio frequency; Virtual metrology;
+   3D-NAND; explainable AI; thickness; machine learning
+PY 2025
+DI 10.1109/TSM.2025.3537974
+UT WOS:001480535400005
+ER
+
+PT J
+AU Tseng, ML
+   Chien, CF
+   Lim, MK
+   Chiu, ASF
+TI Special Issue (SI) Editorial Note: Sustainable semiconductor supply
+   chain under industrial disruption: Risk and resilience concerns
+SO INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+DE Keywords; Semiconductor supply chain; Semiconductor risk and resilience;
+   Semiconductor management model; Carbon emissions
+PY 2025
+DI 10.1016/j.ijpe.2025.109656
+UT WOS:001488039200001
+ER
+
+PT J
+AU Phongmoo, S
+   Suedumrong, C
+   Kuensaen, C
+   Sinthavalai, R
+   Leksakul, K
+TI Predictive maintenance in semiconductor manufacturing: Comparative
+   analysis of machine learning models for downtime reduction
+SO COMPUTERS & INDUSTRIAL ENGINEERING
+DE Predictive Maintenance; Machine Learning Models; Artificial Neural
+   Networks (ANN); Data Preprocessing; Industrial Downtime Prediction
+PY 2025
+DI 10.1016/j.cie.2025.111211
+UT WOS:001491354000005
+ER
+
+PT J
+AU Geng, MQ
+   Guo, JM
+   Sun, YT
+   Gao, DW
+   Ni, D
+TI Accurate and Efficient Process Modeling and Inverse Optimization for
+   Trench Metal Oxide Semiconductor Field Effect Transistors: A Machine
+   Learning Proxy Approach
+SO PROCESSES
+DE trench MOSFET; LSTM; Bayesian optimization; TCAD; processes
+PY 2025
+DI 10.3390/pr13051544
+UT WOS:001496783700001
+ER
+
+PT J
+AU Firoozi, AA
+   Firoozi, AA
+   Maghami, MR
+TI Harnessing photovoltaic innovation: Advancements, challenges, and
+   strategic pathways for sustainable global development
+SO ENERGY CONVERSION AND MANAGEMENT-X
+DE Photovoltaic Technology; Solar Cell Efficiency; Energy Storage
+   Integration; Lifecycle Impacts; Grid Integration Challenges; Sustainable
+   Photovoltaics; Circular Economy in Solar; Climate Resilience through PV
+PY 2025
+DI 10.1016/j.ecmx.2025.101058
+UT WOS:001498924800003
+ER
+
+PT J
+AU Zhou, LJ
+   Cai, X
+   Fang, XS
+   Zhu, YX
+   Li, YC
+   Chen, H
+   Wang, QB
+   Zhu, JB
+   Li, C
+   Nie, XM
+   He, ZX
+   Wang, L
+   Li, K
+   Yu, SH
+   Zhang, F
+TI On-Chip Optical Spectrally Sliced Synthesis for Ultra-High-Speed Signals
+SO LASER & PHOTONICS REVIEWS
+DE high baud rate; optical communication; spectrally sliced; thin-film
+   lithium niobate
+PY 2025
+DI 10.1002/lpor.202402166
+UT WOS:001491982500001
+ER
+
+PT J
+AU Ivanov, D
+   Tu, Y
+TI Supply chain viability in the post-COVID era
+SO OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+DE Supply chain; Resilience; Viability; Operations research; Management
+   science
+PY 2025
+DI 10.1016/j.omega.2025.103359
+UT WOS:001501906300001
+ER
+
+PT J
+AU Ou, FY
+   Suherman, J
+   Zhang, C
+   Wang, H
+   Bom, S
+   Davis, JF
+   Christofides, PD
+TI Industrial multi-machine data aggregation, AI-ready data preparation,
+   and machine learning for virtual metrology in semiconductor wafer and
+   slider production
+SO DIGITAL CHEMICAL ENGINEERING
+DE Smart manufacturing; Industry 4.0; Machine learning; Virtual metrology;
+   Soft sensing; Data engineering; Semiconductor manufacturing
+PY 2025
+DI 10.1016/j.dche.2025.100242
+UT WOS:001501078000001
+ER
+
+PT J
+AU Shao, CP
+   Luo, XH
+   Li, HY
+   Tang, ZM
+TI Transient Fault Detection and Failure Effect Analysis Based on Design
+   for Test and Fault Tree Analysis for Automotive Chips
+SO IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS I-REGULAR PAPERS
+DE Safety; Transient analysis; Circuit faults; Fault trees; Testing;
+   Hardware; ISO Standards; Fault diagnosis; Circuits; Automotive
+   engineering; Design for test; functional safety; fault tree analysis;
+   transient fault; test patterns
+PY 2025
+DI 10.1109/TCSI.2025.3570877
+UT WOS:001499473700001
+ER
+
+PT J
+AU Bertelson, S
+   Dailey, R
+   Kim, J
+   Djurdjanovic, D
+TI Virtual metrology of critical dimensions in etch processes based on
+   automated dynamics-inspired analysis of complete tool signals
+SO INTERNATIONAL JOURNAL OF ADVANCED MANUFACTURING TECHNOLOGY
+DE Virtual metrology (VM); Semiconductor manufacturing; Physically
+   interpretable sensor features for VM; Automatically generated sensor
+   features for VM
+PY 2025
+DI 10.1007/s00170-025-15788-1
+UT WOS:001501937000001
+ER
+
+PT J
+AU Kaklamanis, K
+   Papageorgiou, DG
+TI POLAR SHIFT: Charge carrier polarization energies in organic electronic
+   materials
+SO COMPUTER PHYSICS COMMUNICATIONS
+DE Organic electronics; Polarization energy; Microelectrostatics;
+   Induction; Energetic disorder
+PY 2025
+DI 10.1016/j.cpc.2025.109700
+UT WOS:001508644800002
+ER
+
+PT J
+AU Wauschkuhn, N
+   Kayser, Y
+   Baumann, J
+   Degenhardt, J
+   Siefke, T
+   Truong, VB
+   Soltwisch, V
+   Beckhoff, B
+   Hönicke, P
+TI Characterization and discrimination of periodic nanostructures with
+   scanning-free GEXRF
+SO NANOTECHNOLOGY
+DE GEXRF; FEM; periodic nanostructures; buried nanostructure
+   characterization; nanoscale metrology
+PY 2025
+DI 10.1088/1361-6528/add89a
+UT WOS:001493183200001
+ER
+
+PT J
+AU Xu, LX
+   Chen, C
+   Su, R
+TI Error source sensitivity analysis in model-based coherence scanning
+   interferometry for thin-film metrology
+SO APPLIED OPTICS
+PY 2025
+DI 10.1364/AO.561719
+UT WOS:001518612500007
+ER
+
+PT J
+AU Liang, ZX
+   Gu, X
+   Li, JQ
+   Wu, LX
+   Zhu, ZX
+   Lin, SQ
+   Chen, YJ
+   Yu, SY
+TI Sub-50-pm displacement sensing via phase-matched metasurface-prism
+   configuration
+SO OPTICS LETTERS
+PY 2025
+DI 10.1364/OL.563241
+UT WOS:001512038500031
+ER
+
+PT J
+AU Sun, JC
+   Wang, SW
+   Xie, WD
+   Ding, Y
+   Zhang, XY
+   Feng, R
+   Yang, LJ
+   He, P
+   Chen, MJ
+TI Water⁃Jet Guided Laser Coupling, Transmission Mechanism and Its
+   Applications: a Review (Invited)
+SO CHINESE JOURNAL OF LASERS-ZHONGGUO JIGUANG
+DE water-jet guided laser; coupling process; transmission characteristics;
+   machining applications
+PY 2025
+DI 10.3788/CJL250779
+UT WOS:001541273100010
+ER
+
+PT J
+AU Lu, Q
+   Moorthy, R
+TI Strategic responses and regional pressures: Malaysia in the US-China
+   semiconductor competition
+SO PACIFIC REVIEW
+DE ASEAN; industrial upgrading strategy; Malaysia; semiconductors;
+   techno-geopolitics; US-China tech rivalry
+PY 2026
+DI 10.1080/09512748.2025.2530476
+UT WOS:001524862000001
+ER
+
+PT J
+AU Ni, HP
+   Liu, CY
+   Paul, F
+   Chong, WO
+   Chou, JS
+TI Enhancing supply chain resilience and efficiency of HVAC systems in
+   semiconductor manufacturing facilities using graph-based large
+   multimodal models
+SO APPLIED ENERGY
+DE Large multimodal model; Graph neural network; HVAC systems;
+   Semiconductor manufacturing facilities; Supply chain management;
+   Circular economy
+PY 2025
+DI 10.1016/j.apenergy.2025.126420
+UT WOS:001529403400001
+ER
+
+PT J
+AU Ji, YG
+   Kim, IH
+   Shin, M
+   Lee, GT
+   Jang, J
+TI Advanced virtual metrology using distribution alignment loss for
+   practical quality control
+SO INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+DE Semiconductor manufacturing; virtual metrology; deep learning;
+   distribution alignment loss; process stability
+PY 2025
+DI 10.1080/00207543.2025.2532147
+UT WOS:001529799400001
+ER
+
+PT J
+AU Kuo, HA
+   Hong, TY
+   Chien, CF
+TI A deep reinforcement learning based digital twin framework for resilient
+   production planning under demand uncertainty and an empirical study in
+   semiconductor wafer fabrication☆
+SO COMPUTERS & INDUSTRIAL ENGINEERING
+DE Self-adaptive production planning; Fast responsive production system;
+   Demand fulfilment; Supply chain resilience; Digital-twin application
+PY 2025
+DI 10.1016/j.cie.2025.111389
+UT WOS:001536698200003
+ER
+
+PT J
+AU Xu, WW
+   Zhang, HD
+   Ji, LJ
+   Li, ZY
+TI AI-Powered Next-Generation Technology for Semiconductor Optical
+   Metrology: A Review
+SO MICROMACHINES
+DE optical spectroscopy; Artificial Intelligence (AI); Mueller Matrix
+   Ellipsometry (MME); physics-informed neural network (PINN); tool-to-tool
+   (T2T) matching; multi-task learning
+PY 2025
+DI 10.3390/mi16080838
+UT WOS:001558069000001
+ER
+
+PT J
+AU Narwariya, AS
+   Kalanadhabhatta, S
+   Acharyya, A
+TI Leveraging IO Pad Protection Diodes for Recycled IC Detection and Age
+   Estimation Using Polynomial Regression
+SO IEEE TRANSACTIONS ON VERY LARGE SCALE INTEGRATION (VLSI) SYSTEMS
+DE Estimation; Protection; Aging; Semiconductor device measurement;
+   Integrated circuits; Polynomials; Electronic waste; Voltage measurement;
+   Transistors; System-on-chip; Bias temperature instability (BTI); hot
+   carrier injection (HCI); input-output (IO) pad; machine learning;
+   protection diodes; recycled integrated circuits (ICs); regression
+PY 2025
+DI 10.1109/TVLSI.2025.3590317
+UT WOS:001536879700001
+ER
+
+PT J
+AU Winkler, G
+   Rothe, T
+   Sayyed, MA
+   Langer, J
+   Kuhn, H
+   Stoll, M
+TI Machine learning in chemical-mechanical planarization: A comprehensive
+   review of trends, applications, and challenges
+SO ADVANCED ENGINEERING INFORMATICS
+DE Machine learning; Chemical-mechanical planarization; Semiconductor
+   manufacturing; Virtual metrology; Process control; Literature review
+PY 2025
+DI 10.1016/j.aei.2025.103663
+UT WOS:001583176800004
+ER
+
+PT J
+AU Park, S
+   Seong, J
+   Lee, H
+   Bae, N
+   Kwon, JW
+   Kim, GH
+TI Plasma heating characterized PI (plasma information) index for
+   large-area capacitively coupled RF discharges in the mass production
+   system
+SO PHYSICS OF PLASMAS
+PY 2025
+DI 10.1063/5.0261778
+UT WOS:001649267600001
+ER
+
+PT J
+AU Kobayashi, T
+TI Supply Chains, Digital Governance, and Strategic Coordination in the
+   Indo-Pacific: A Case Study of Japan's Semiconductor Policy
+SO JOURNAL OF WORLD INVESTMENT & TRADE
+DE Supply chain resilience; digital economy; Indo-Pacific; G7; G20; trade
+   security; investment facilitation; regulatory coordination;
+   semiconductor policy; industrial policy
+PY 2025
+DI 10.1163/22119000-12340370
+UT WOS:001573914700003
+ER
+
+PT J
+AU Lin, KC
+   Chang, SC
+   Liao, YC
+   Wu, CW
+TI A Proactive Approach of Optimizing Real-Time Equipment Monitoring
+   Settings for Enhancing End-of-Line Yield
+SO IEEE TRANSACTIONS ON SEMICONDUCTOR MANUFACTURING
+DE Predictive models; Genetic algorithms; Monitoring; Semiconductor device
+   manufacture; Data models; Correlation; Semiconductor device measurement;
+   Real-time systems; Feature extraction; Training; Machine learning;
+   semiconductor manufacturing; wafer acceptance test; equipment sensory
+   data; equipment monitoring optimization; genetic algorithm
+PY 2025
+DI 10.1109/TSM.2025.3574015
+UT WOS:001563976700024
+ER
+
+PT J
+AU Lau, CL
+   Ding, SH
+   Xie, YT
+   Law, ER
+   Kor, B
+   Davaji, B
+   Lal, A
+   Doerschuk, PC
+TI Process-Aware Digital Twins by Deep Learning for DUV Photolithography
+   and Plasma Etch
+SO IEEE TRANSACTIONS ON SEMICONDUCTOR MANUFACTURING
+DE Lithography; Layout; Plasmas; Generators; Generative adversarial
+   networks; Integrated circuit modeling; Training; Semiconductor device
+   measurement; Digital twins; Translation; DUV photolithography; plasma
+   etch; digital twins; machine learning; generative artificial
+   intelligence; Pix2Pix; critical dimensions; metrology
+PY 2025
+DI 10.1109/TSM.2025.3582194
+UT WOS:001563976700020
+ER
+
+PT J
+AU Lin, CY
+   Tseng, TL
+   Emon, SH
+   Tsai, TH
+TI Generative AI-Driven Data Augmentation for Robust Virtual Metrology:
+   GANs, VAEs, and Diffusion Models
+SO IEEE TRANSACTIONS ON SEMICONDUCTOR MANUFACTURING
+DE Semiconductor process modeling; Manufacturing; Data models; Metrology;
+   Accuracy; Data augmentation; Training; Semiconductor device modeling;
+   Process control; Semiconductor manufacturing; virtual metrology (VM);
+   data augmentation; diffusion models; generative models; variational
+   autoencoders (VAE); physics-informed constraints; rare event coverage;
+   advanced process control (APC); advanced process control (APC)
+PY 2025
+DI 10.1109/TSM.2025.3569229
+UT WOS:001563976700007
+ER
+
+PT J
+AU Jayan, H
+   Zhou, RY
+   Sun, CJ
+   Wang, C
+   Yin, LM
+   Zou, XB
+   Guo, ZM
+TI Intelligent Gas Sensors for Food Safety and Quality Monitoring:
+   Advances, Applications, and Future Directions
+SO FOODS
+DE gas sensor; food quality; VOCs; food spoilage; data analysis
+PY 2025
+DI 10.3390/foods14152706
+UT WOS:001549577000001
+ER
+
+PT J
+AU Svoboda, O
+TI Semiconductors Minilateral Agreement: Preventing Friendly Fire
+SO JOURNAL OF WORLD TRADE
+DE Semiconductors; Chips; Semiconductors Minilateral Agreement; Mini-deal;
+   Export Controls; Supply Chain; Subsidy; Sanctions; Economic Security
+PY 2025
+UT WOS:001532237900002
+ER
+
+PT J
+AU Peng, SY
+TI Semiconductor Tariffs as Policy Whiplash
+SO WORLD TRADE REVIEW
+DE Semiconductor; tariffs; TSM; foreign direct investment; chip foundry
+   supply chain; resilience industrial policy
+PY 2025
+DI 10.1017/S1474745625101006
+UT WOS:001547645400001
+ER
+
+PT J
+AU Valderama, VE Jr
+   Ballesteros, FC Jr
+   Garcia-Segura, S
+   Lu, MC
+TI Transforming wastewater into resources: A review of Fluidized-Bed
+   Homogeneous Crystallization for sustainable treatment and recovery
+SO JOURNAL OF ENVIRONMENTAL CHEMICAL ENGINEERING
+DE Fluidized-bed homogeneous crystallization; Sustainable wastewater
+   treatment; Resource recovery; Circular economy; Supersaturation control
+PY 2025
+DI 10.1016/j.jece.2025.118702
+UT WOS:001553418300001
+ER
+
+PT J
+AU Gu, HB
+   Tang, JF
+TI The multiple effects of financial squeeze: A complex adaptive system
+   modelling with empirical data
+SO INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+DE Supply chain resilience; financial squeeze; ripple effect; complex
+   adaptive system simulation modelling; empirical data grounded
+PY 2025
+DI 10.1080/00207543.2025.2547043
+UT WOS:001554916200001
+ER
+
+PT J
+AU Huang, ZX
+   Huang, YT
+   Cheng, J
+   Pan, GF
+   Bai, PP
+   Lv, YR
+TI Multimodal attention dynamic hypergraph contrastive learning for
+   predicting material removal rate in chemical mechanical polishing
+SO JOURNAL OF MANUFACTURING PROCESSES
+DE Time series forecast; Dynamic hypergraph; Attention; Chemical mechanical
+   polishing; Material removal rate
+PY 2025
+DI 10.1016/j.jmapro.2025.08.043
+UT WOS:001633342200001
+ER
+
+PT J
+AU Panazan, O
+   Gheorghe, C
+TI Strategic Risk Spillovers from Rare Earth Markets to Critical Industrial
+   Sectors
+SO INTERNATIONAL JOURNAL OF FINANCIAL STUDIES
+DE rare earth element; volatility spillovers; critical sectors; wavelet
+   coherence; quantile-on-quantile regression
+PY 2025
+DI 10.3390/ijfs13030156
+UT WOS:001580081400001
+ER
+
+PT J
+AU Paramasivam, SK
+   Senniyappan, R
+   Ramu, SK
+   Mani, S
+TI IIPQ controlled three phase three level four wire T-type vienna
+   rectifier for high efficient off board fast EV charging station with
+   enhanced system stability
+SO RESULTS IN ENGINEERING
+DE Fast EV Charging; T-Type Vienna rectifier; Photovoltaic systems;
+   Improved instantaneous real and reactive power control strategy; Power
+   quality; Total harmonic distortion
+PY 2025
+DI 10.1016/j.rineng.2025.106880
+UT WOS:001564148500010
+ER
+
+PT J
+AU Liu, YY
+   Lin, CY
+   Wang, YC
+   Hsu, WC
+   Lin, CH
+   Chang, KH
+TI An empirical study on enhancing wafer quality: Integrating big data and
+   AI in virtual metrology for thin-film processing
+SO ADVANCED ENGINEERING INFORMATICS
+DE Big data analytics; AI; Virtual metrology; Smart manufacturing; Quality
+   management
+PY 2025
+DI 10.1016/j.aei.2025.103747
+UT WOS:001565940100001
+ER
+
+PT J
+AU An, JL
+   Yin, H
+TI EU Policies and prospects for achieving 'Chip autonomy' amid global
+   localization trend in chip supply chain
+SO INNOVATION-THE EUROPEAN JOURNAL OF SOCIAL SCIENCE RESEARCH
+DE 'Chip autonomy'; European Chip Act; Localization trend; Chip supply
+   chain
+PY 2025
+DI 10.1080/13511610.2025.2554765
+UT WOS:001577111200001
+ER
+
+PT J
+AU Chaudhary, V
+   Sonu, S
+   Raizada, P
+   Kaushik, A
+TI Bacteriogenic metallic and semiconducting nano-system as a potential
+   sustainable solution for one health complexities
+SO ADVANCES IN COLLOID AND INTERFACE SCIENCE
+DE Bacteriogenic; NanoSystem; Green semiconductor; One health;
+   Sustainability
+PY 2025
+DI 10.1016/j.cis.2025.103648
+UT WOS:001568826600002
+ER
+
+PT J
+AU Wang, SY
+   Ye, NZ
+TI Invisible footprints, visible insights: machine learning reveals Scope 3
+   emissions
+SO FRONTIERS IN SUSTAINABILITY
+DE Scope 3 emission; carbon accounting; supply chain management; machine
+   learning; AdaBoost; XGBoost; random forest
+PY 2025
+DI 10.3389/frsus.2025.1649150
+UT WOS:001576515600001
+ER
+
+PT J
+AU Maeng, S
+   Min, SK
+TI Review on Work Coordinate Setup Technologies in Ultra-Precision Machine
+   Tools
+SO INTERNATIONAL JOURNAL OF PRECISION ENGINEERING AND MANUFACTURING
+DE Distance measurement; Contact detection; Work coordinate setup;
+   Precision measurement; Machine tools
+PY 2025
+DI 10.1007/s12541-025-01308-4
+UT WOS:001571203400001
+ER
+
+PT J
+AU Sindhu, M
+   Gusain, M
+   Tewary, A
+TI Nanocatalysts in photocatalytic and electrochemical hydrogen production
+SO JOURNAL OF MATERIALS SCIENCE
+PY 2025
+DI 10.1007/s10853-025-11546-6
+UT WOS:001576808900001
+ER
+
+PT J
+AU Gu, SL
+   Lei, ZH
+   Wen, GR
+   Xu, QN
+   Li, ZS
+   Chen, XF
+   Yang, CS
+TI WamGLM: A multimodal large-scale language model for wafer map defect
+   information in-depth query through multi-turn dialogue based on
+   prototypical supervised contrastive learning
+SO APPLIED SOFT COMPUTING
+DE Multimodal large language model; Wafer map defect information query;
+   Multi-turn dialogue dataset; Two-stage fine-tuning strategy;
+   Prototypical supervised contrastive learning
+PY 2025
+DI 10.1016/j.asoc.2025.113962
+UT WOS:001584158800001
+ER
+
+PT J
+AU Oh, J
+   Son, J
+   Yoon, C
+   Hwang, E
+   Ahn, J
+   Lee, J
+   Lee, J
+   Shin, J
+   Lee, D
+   Lim, S
+   Ahn, J
+   Sohn, Y
+   Hyun, S
+   Lee, M
+   Jo, T
+TI Ultra-wide-field imaging Mueller matrix spectroscopic ellipsometry for
+   semiconductor metrology
+SO NATURE COMMUNICATIONS
+PY 2025
+DI 10.1038/s41467-025-63511-1
+UT WOS:001582507700018
+ER
+
+PT J
+AU Nakamura, F
+   Nakagawa, K
+   Ishiyama, N
+   Kishida, Y
+TI The impact of institutional entrepreneurs on semiconductor supply chain
+   resilience: the case of Rapidus in Japan
+SO ASIA PACIFIC BUSINESS REVIEW
+DE Geopolitical disruption; institutional entrepreneurship; Japan; resource
+   mobilization; semiconductor industry; supply chain resilience
+PY 2025
+DI 10.1080/13602381.2025.2561152
+UT WOS:001581708900001
+ER
+
+PT J
+AU Bajcsy, P
+   Sathe, P
+   Vladar, AA
+TI Relating human and AI-based detection limits in scanning electron
+   microscopy dimensional metrology
+SO JOURNAL OF MICRO-NANOPATTERNING MATERIALS AND METROLOGY-JM3
+DE scanning electron microscopy; dimensional metrology; detection limits;
+   artificial intelligence model
+PY 2025
+DI 10.1117/1.JMM.24.4.044201
+UT WOS:001654113500031
+ER
+
+PT J
+AU Tiong, LCO
+   Kim, J
+   Choi, D
+   Park, C
+   Lee, JH
+   Yu, SHY
+   Yim, Y
+   Lee, WH
+   Lee, JH
+   Son, S
+   Baek, H
+   Kong, CW
+   Joo, S
+   Kang, HYJ
+   Bae, Y
+   Kang, CL
+   Cheon, J
+   Kim, K
+   Hwang, K
+   Lee, SH
+   Park, H
+   Lee, MYJ
+TI AI-powered super-resolution and denoising of scanning electron
+   microscopy images for high-throughput metrology and inspection
+SO JOURNAL OF MICRO-NANOPATTERNING MATERIALS AND METROLOGY-JM3
+DE metrology and inspection; massive metrology; image enhancement;
+   super-resolution; image denoising
+PY 2025
+DI 10.1117/1.JMM.24.4.041407
+UT WOS:001654113500004
+ER
+
+PT J
+AU Wang, HX
+   Kang, RK
+   Li, SB
+   Dong, ZG
+   Gao, S
+TI State-of-the-art and Prospectives of Atomic-level Grinding Technology
+   for Semiconductor Substrates Used in High-end Chips
+SO CHINA SURFACE ENGINEERING
+DE semiconductor substrate; atomic-level grinding; mechanism; machining
+   process
+PY 2025
+DI 10.11933/j.issn.1007-9289.20250609001
+UT WOS:001612561700002
+ER
+
+PT J
+AU Pudur, R
+   Rajak, MK
+TI A comprehensive review of grid-connected inverter topologies and control
+   strategies (2020-2025)
+SO NEXT ENERGY
+DE Grid-connected inverters; Multilevel inverters; Transformerless
+   topologies; Virtual inertia; Impedance reshaping; Phase-locked loop;
+   Subsynchronous oscillation suppression; Renewable energy integration;
+   Model predictive control; Sliding mode control
+PY 2025
+DI 10.1016/j.nxener.2025.100433
+UT WOS:001589354700002
+ER
+
+PT J
+AU Kataoka, J
+   Ogasawara, S
+   Mori, R
+   Yamamoto, K
+   Joshi, AR
+   Kojima, S
+   Sato, K
+   Tanaka, KS
+   Watanabe, K
+   Yasuda, M
+   Kobayashi, H
+   Kobayashi, D
+   Ohira, A
+   Amaki, Y
+   Arai, Y
+   Tashirio, K
+   Otsubo, K
+   Ozeki, Y
+   Kawaguchi, Y
+   Yoshimura, D
+   Yoshida, H
+   Takahashi, K
+   Masaki, S
+   Yamada, N
+   Oikawa, K
+   Zamami, E
+   Miyamoto, K
+   Chujo, T
+   Nakanishi, H
+   Tomura, T
+   Hayatsu, S
+   Fukuda, M
+   Seki, H
+   Joshima, S
+   Yatsu, Y
+TI Revisiting the ARM cut in Compton gamma-ray imaging and its application
+   to the INSPIRE detector
+SO JOURNAL OF INSTRUMENTATION
+DE Gamma detectors; Space instrumentation; Data analysis; Imaging
+   spectroscopy
+PY 2025
+DI 10.1088/1748-0221/20/10/P10009
+UT WOS:001588024700001
+ER
+
+PT J
+AU Kuo, TC
+   Hong, TY
+   Chen, LW
+TI Sustainable fault detection and process simulation in semiconductor
+   manufacturing using machine learning and life cycle assessment
+SO COMPUTERS & INDUSTRIAL ENGINEERING
+DE Semiconductor manufacturing; Fault detection; Life cycle assessment;
+   Sustainability; Discrete event simulation; Machine learning
+PY 2025
+DI 10.1016/j.cie.2025.111584
+UT WOS:001596868800002
+ER
+
+PT J
+AU Xiao, L
+   Wang, LY
+   Zhao, TP
+   Xu, J
+   Liu, WY
+TI Indium resource industry chain status and supply and demand trend
+   analysis
+SO MINERALS ENGINEERING
+DE Strategic emerging minerals; Indium industry chain; Indium resources;
+   Supply and demand trends; Resource recycling
+PY 2026
+DI 10.1016/j.mineng.2025.109780
+UT WOS:001597338500001
+ER
+
+PT J
+AU Lin, KY
+   Wu, SY
+   Matsuno, K
+TI Generative AI-Driven resilience in supply chain management: UNISONE
+   framework for disruption modelling and capacity optimisation
+SO INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+DE Generative AI (GAI); supply chain resilience; disruption management;
+   risk mitigation; industry; innovation and infrastructure
+PY 2025
+DI 10.1080/00207543.2025.2574412
+UT WOS:001596049700001
+ER
+
+PT J
+AU Mohanty, K
+   Alfonso, P
+   Oliva, J
+   Sampaio, CH
+   Anticoi, H
+TI Perspectives for High-Purity Quartz from European Resources
+SO MINERALS
+DE raw materials; quartz purification technologies; mineral processing;
+   Europe
+PY 2025
+DI 10.3390/min15101080
+UT WOS:001602007900001
+ER
+
+PT J
+AU Chen, HY
+   Chen, CC
+TI Review of Applications of Regression and Predictive Modeling in Wafer
+   Manufacturing
+SO ELECTRONICS
+DE regression; predictive modeling; AI; machine learning; wafer
+   manufacturing
+PY 2025
+DI 10.3390/electronics14204083
+UT WOS:001601451000001
+ER
+
+PT J
+AU Lim, DK
+   Che, FX
+   Vempaty, VRSP
+   Sim, WH
+   Singh, HV
+   Yan, WT
+   Lim, YK
+TI Semiconductor wafer singulation: technological advancements and emerging
+   trends
+SO CRITICAL REVIEWS IN SOLID STATE AND MATERIALS SCIENCES
+DE Blade dicing; laser ablation; plasma dicing; semiconductor wafer
+   singulation; stealth dicing
+PY 2025
+DI 10.1080/10408436.2025.2578023
+UT WOS:001613865000001
+ER
+
+PT J
+AU Kim, TH
+   Lee, MJ
+TI Assessing Trade Concentration, Dependency, and Resilience in Korea's
+   Semiconductor Supply Chain: A Network and Entropy-Based Approach
+SO JOURNAL OF KOREA TRADE
+DE Hub Dependency; Network Analysis; Semiconductor Trade-Korea; Shannon
+   Entropy; Supply Chain Dependency and Resilience
+PY 2025
+DI 10.35611/jkt.2025.29.7.67
+UT WOS:001637889300004
+ER
+
+PT J
+AU Singh, G
+   Kumar, A
+TI Driving ESG excellence in the pharmaceutical sector through an
+   analytical approach: a roadmap for score improvement
+SO ENVIRONMENTAL SCIENCE-ADVANCES
+PY 2026
+DI 10.1039/d5va00286a
+UT WOS:001618632200001
+ER
+
+PT J
+AU Gulati, PA
+   Chaklader, B
+TI Impact of ripple effect in the semiconductor supply chain on the stock
+   market: a signalling theory and resource dependence perspective
+SO BENCHMARKING-AN INTERNATIONAL JOURNAL
+DE Supply chain disruption; Supply chain finance; Event study; Signalling
+   theory; Resource dependency theory
+PY 2025
+DI 10.1108/BIJ-07-2025-0730
+UT WOS:001620218600001
+ER
+
+PT J
+AU Petkovic, M
+   Vieira, L
+   Dropka, N
+TI Machine learning in crystal growth: A review of methods, data, and
+   applications
+SO PROGRESS IN CRYSTAL GROWTH AND CHARACTERIZATION OF MATERIALS
+DE Machine learning; Data challenges in crystal growth and
+   characterization; Surrogate modeling; Data-driven optimization;
+   Methodological survey
+PY 2025
+DI 10.1016/j.pcrysgrow.2025.100689
+UT WOS:001626853700001
+ER
+
+PT J
+AU Majid, LHA
+   Fernando, Y
+   Lim, MK
+   Tseng, ML
+TI Non-fungible tokens, blockchain carbon credits, and the transition to
+   carbon neutrality in supply chains
+SO INTERNATIONAL JOURNAL OF LOGISTICS-RESEARCH AND APPLICATIONS
+DE Carbon neutrality; carbon transparency; blockchain-based carbon credits;
+   net zero supply chain; carbon emissions; non-fungible tokens
+PY 2025
+DI 10.1080/13675567.2025.2590584
+UT WOS:001626161700001
+ER
+
+PT J
+AU Chen, HY
+   Chen, CC
+TI Review of Applications of Experimental Designs in Wafer Manufacturing
+SO APPLIED SYSTEM INNOVATION
+DE design of experiments; AI-assisted; machine learning; wafer
+   manufacturing
+PY 2025
+DI 10.3390/asi8060183
+UT WOS:001645963400001
+ER
+
+PT J
+AU Manivel, M
+   Tamilselven, K
+   Nagulsamy, S
+   Palani, L
+   Samarasam, B
+   Karuppannan, A
+   Rajaduraipandi, J
+   Subramanian, B
+TI INVESTIGATION OF MODIFIED NEW HYBRID MULTILEVEL INVERTER TOPOLOGY WITH
+   REDUCED SWITCHES
+SO ADVANCES IN ELECTRICAL AND ELECTRONIC ENGINEERING
+DE Cost Function; Multilevel Inverter; Nearest Level Control; Total
+   Standing Voltage; Total Harmonic Distortion
+PY 2025
+DI 10.15598/aeee.v23i4.240817
+UT WOS:001677383300002
+ER
+
+PT J
+AU Jayaprakasan, V
+   Kumar, C
+   Lodi, MB
+   Pierantoni, L
+   Sivasubramani, S
+TI From Vision to Impact
+SO IEEE NANOTECHNOLOGY MAGAZINE
+DE Design thinking in education; interdisciplinary collaboration; nano
+   CRHES; nanotechnology integration; summer school; sustainable
+   development goals; workforce development
+PY 2025
+DI 10.1109/MNANO.2025.3607017
+UT WOS:001622341800009
+ER
+
+PT J
+AU Lu, K
+   Lin, PF
+   Chun, H
+   Kim, B
+   Nomura, M
+   Park, J
+   Lee, C
+TI A Review of Through-Silicon Via Inspection and Metrology Technology for
+   Advanced Semiconductor Packaging
+SO JOURNAL OF MANUFACTURING SCIENCE AND ENGINEERING-TRANSACTIONS OF THE
+   ASME
+DE through-silicon via (TSV); inspection; metrology; semiconductor
+   packaging; artificial intelligence (AI); inspection and quality control;
+   semiconductor manufacturing
+PY 2025
+DI 10.1115/1.4069965
+UT WOS:001615740900001
+ER
+
+PT J
+AU Arvidsson, A
+   Garcia, JAC
+   Govik, L
+TI Power dynamics in global supply networks at times of supply crisis
+SO INDUSTRIAL MARKETING MANAGEMENT
+DE Automotive industry; Purchasing; Resource dependency theory;
+   Semiconductor; Geopolitics
+PY 2026
+DI 10.1016/j.indmarman.2025.11.012
+UT WOS:001637217500001
+ER
+
+PT J
+AU Lee, HYW
+   Joo, H
+   Moon, T
+   Koo, Y
+   Kim, S
+   Choi, SH
+   Kang, UJ
+   Jin, KH
+   Kim, KK
+   Jariwala, D
+   Park, KD
+TI Nanoscale Metal-Insulator-Semiconductor Tunnel Junction for Multibit
+   Excitonic Data Storage
+SO ACS NANO
+DE excitonic data storage; two-dimensional semiconductors;
+   photoluminescence; exciton-trion conversion;
+   metal-insulator-semiconductor tunnel junction
+PY 2025
+DI 10.1021/acsnano.5c15152
+UT WOS:001631989100001
+ER
+
+PT J
+AU Breidung, M
+   Rothe, T
+   Lauff, A
+   Thieme, P
+   Langer, J
+   Günther, M
+   Kuhn, H
+TI Process data-driven machine learning for non-uniformity prediction and
+   virtual metrology in chemical mechanical planarization
+SO JOURNAL OF INTELLIGENT MANUFACTURING
+DE Virtual metrology; Chemical mechanical planarization; Semiconductor
+   Manufacturing; Machine Learning
+PY 2025
+DI 10.1007/s10845-025-02753-8
+UT WOS:001632366800001
+ER
+
+PT J
+AU Salarpour, M
+   Zeinolabedinzadeh, K
+TI Modeling competitive semiconductor supply chains under disruptions: a
+   multicountry two-stage stochastic framework
+SO JOURNAL OF MODELLING IN MANAGEMENT
+DE Semiconductor supply chain; Logistics network design; Supply chain
+   resilience; Game theory; Supply disruptions; Global competition;
+   Generalized Nash equilibrium; Decision-making; Logistics; Supply chain
+   management; Stochastic programming
+PY 2025
+DI 10.1108/JM2-05-2025-0201
+UT WOS:001631138200001
+ER
+
+PT J
+AU Chen, HY
+   Chen, CC
+TI Reviews of the Static, Adoptive, and Dynamic Sampling in Wafer
+   Manufacturing
+SO APPLIED SYSTEM INNOVATION
+DE static sampling; adaptive sampling; dynamic sampling; semiconductor
+   manufacturing; metrology; process control; intelligent fabrication
+PY 2025
+DI 10.3390/asi9010001
+UT WOS:001669838600001
+ER
+
+PT J
+AU Goswami, R
+   Das, R
+   Ganguly, S
+   Markides, CN
+   Luo, K
+   Aflatounian, S
+   Chettiar, K
+   Miljkovic, N
+TI Progress in the design and development of thermoelectric generator heat
+   recovery systems: A comprehensive review
+SO RENEWABLE & SUSTAINABLE ENERGY REVIEWS
+DE Energy efficiency; Heat recovery; Sustainable development;
+   Thermoelectric; Waste heat
+PY 2026
+DI 10.1016/j.rser.2025.116631
+UT WOS:001650989300001
+ER
+
+PT J
+AU Ramirez, ZR
+   Le, TV
+TI Semiconductor supply chain resilience: Systematic review, conceptual
+   framework, implementation challenges, and future research directions
+SO COMPUTERS & INDUSTRIAL ENGINEERING
+DE Semiconductors; Resilience; Risk management; Supply chain management;
+   Systematic literature review
+PY 2025
+DI 10.1016/j.cie.2025.111518
+UT WOS:001571276300003
+ER
+
+PT J
+AU Jo, Y
+   Hwang, S
+   Kim, SB
+TI HAN-Semi: A Hierarchical Attention Network for Yield Prediction Based on
+   Production Resources in Semiconductor Manufacturing
+SO IEEE ACCESS
+DE Production; Semiconductor device manufacture; Predictive models;
+   Fabrication; Semiconductor process modeling; Long short term memory;
+   Accuracy; Lithography; Metrology; Manuals; Deep learning; hierarchical
+   attention network; semiconductor; yield prediction
+PY 2026
+DI 10.1109/ACCESS.2026.3665663
+UT WOS:001700682600002
+ER
+
+PT J
+AU Yoon, H
+   Lee, M
+   Won, D
+   Lee, K
+   Park, K
+   Joo, J
+   Seo, J
+   Kwon, Y
+   Ha, Y
+   Kang, M
+TI M-WAD: Self-Supervised Multimodal Undergain Anomaly Detection for Wafer
+   Probing
+SO IEEE ACCESS
+DE Anomaly detection; Semiconductor device modeling; Standards; Indexes;
+   Visualization; Testing; Feature extraction; Shape; Inspection; Image
+   synthesis; Wafer probing anomaly detection; multimodal anomaly
+   detection; wafer probing
+PY 2026
+DI 10.1109/ACCESS.2026.3660694
+UT WOS:001694521500016
+ER
+
+PT J
+AU Beckmann, M
+TI CHT Gold in the EcoVadis Sustainability Rating
+SO WOCHENBLATT FUR PAPIERFABRIKATION
+PY 2026
+UT WOS:001691278400011
+ER
+
+PT J
+AU Maheshwari, JG
+   Tanushri, N
+   Gowda, R
+   Bhutiyal, VS
+   Rao, KVSR
+TI Forecast Accuracy Improvement and Purchase Order Automation Using a
+   Multi-Model Approach in Semiconductor Supply Chain: A Case Study
+SO IEEE ACCESS
+DE Procurement; Forecasting; Automation; Predictive models; Accuracy; Long
+   short term memory; Supply chains; Planning; Production; Semiconductor
+   device manufacture; Demand forecasting; digital transformation;
+   predictive analytics; procurement automation; semiconductor supply chain
+PY 2026
+DI 10.1109/ACCESS.2026.3658394
+UT WOS:001687406600030
+ER
+
+PT J
+AU Xu, YS
+   Zhang, RZ
+   Bai, L
+   Hu, ZR
+   Zhao, ZJ
+   Zhou, YC
+   Sun, G
+   Wang, XZ
+   Kuang, CF
+   Liu, X
+TI Extreme Ultraviolet Diffraction Microscopy Imaging Technology and
+   Applications (Invited)
+SO ACTA OPTICA SINICA
+DE extreme ultraviolet; computational imaging; coherent diffraction
+   imaging; ptychography
+PY 2026
+DI 10.3788/AOS251868
+UT WOS:001676545800004
+ER
+
+PT J
+AU Zeng, ZN
+TI Semiconductor Metrology and Inspection with Ultrafast Coherent Extreme
+   Ultraviolet Light Source (Invited)
+SO ACTA OPTICA SINICA
+DE extreme ultraviolet; semiconductor; metrology and inspection; advanced
+   lithography
+PY 2026
+DI 10.3788/AOS251749
+UT WOS:001676545800003
+ER
+
+PT J
+AU Talukdar, J
+   Woo, S
+   Lim, SK
+   Chakrabarty, K
+TI Dynamic Interposer Obfuscation Through Distributed Scramblers in
+   Heterogeneously Integrated 2.5D ICs
+SO IEEE TRANSACTIONS ON COMPUTER-AIDED DESIGN OF INTEGRATED CIRCUITS AND
+   SYSTEMS
+DE Chiplets; IP networks; Security; Integrated circuit interconnections;
+   Threat modeling; Reverse engineering; Foundries; Protocols;
+   Multiprocessor interconnection; Multichip modules; 2.5D chiplet;
+   cybersecurity; dynamic obfuscation; hardware security; heterogeneous
+   integration; interconnect obfuscation; interconnect security; interposer
+   security; IP theft; scramblers; security analysis; supply chain
+   security; threat model
+PY 2026
+DI 10.1109/TCAD.2025.3580649
+UT WOS:001661120300044
+ER
+
+PT J
+AU Guo, HL
+   Shen, Z
+   Chen, H
+   Dong, M
+   Dong, KY
+TI The Impact of Supply Chain Risk Complexity and Concentration on
+   Financial and ESG Performance in Chinas Semiconductor Industry
+SO IEEE TRANSACTIONS ON ENGINEERING MANAGEMENT
+DE Supply chains; Complexity theory; Artificial intelligence; Sustainable
+   development; Resilience; Portfolios; Monitoring; Mathematical models;
+   Hazards; Electronics industry; Environmental; social; and governance
+   (ESG) performance; financial performance; resource-based view (RBV);
+   resource dependence theory (RDT); semiconductor industry; supply chain
+   concentration; supply chain risk complexity (SCRC)
+PY 2026
+DI 10.1109/TEM.2025.3639355
+UT WOS:001648488600009
+ER
+
+PT J
+AU Yang, FS
+   Chen, LC
+   Ho, CC
+TI Artificial neural network-driven diffraction imaging for nanoscale
+   optical critical dimension metrology in semiconductor microstructures
+SO INTERNATIONAL JOURNAL OF ADVANCED MANUFACTURING TECHNOLOGY
+DE Optical critical dimension; Coherence optical scatterometry;
+   Re-distribution layer; Artificial intelligence
+PY 2026
+DI 10.1007/s00170-025-17343-4
+UT WOS:001657033100001
+ER
+
+PT J
+AU Tu, SC
+   Chen, YH
+   Cheng, MC
+TI The Impact of ECFA Tariff Concession Termination on Taiwan's Key
+   Industries: Market Diversification and Financial Performance Analysis
+SO REVIEW OF PACIFIC BASIN FINANCIAL MARKETS AND POLICIES
+DE Trade agreement; policy termination; event study; export
+   diversification; firm resilience
+PY 2025
+DI 10.1142/S0219091525500262
+UT WOS:001659548300001
+ER
+
+PT J
+AU Chen, XL
+   Ryoo, J
+TI Strategic resilience in the OECD: tariff politics and the new trade
+   governance
+SO COMPARATIVE EUROPEAN POLITICS
+DE Complex interdependence; Global value chains (GVC); Geoeconomic;
+   Sectoral diversification
+PY 2026
+DI 10.1057/s41295-025-00449-0
+UT WOS:001663029800005
+ER
+
+PT J
+AU Yang, FS
+   Hung, YH
+   Wu, MR
+   Chen, LC
+TI Optimized polarization in DUV scatterometry with global sensitivity
+   analysis for accurate CD metrology of sub-micron microstructure
+   structures
+SO MEASUREMENT SCIENCE AND TECHNOLOGY
+DE metrology; optical critical dimension (OCD); scatterometry;
+   through-silicon vias (TSVs); deep ultraviolet (DUV); global sensitivity
+   analysis (GSA)
+PY 2026
+DI 10.1088/1361-6501/ae2e28
+UT WOS:001657942800001
+ER
+
+PT J
+AU Mishra, I
+   Amarasuriya, S
+   Samani, MN
+TI Chips and Challenges: An Integrative Review on Sustainability and Risk
+   Management in Semiconductor Supply Chains
+SO CORPORATE SOCIAL RESPONSIBILITY AND ENVIRONMENTAL MANAGEMENT
+DE resilience; risk; semiconductor industry; sustainability; sustainable
+   supply chain risk management
+PY 2026
+DI 10.1002/csr.70435
+UT WOS:001668778300001
+ER
+
+PT J
+AU Choi, S
+   Menart, P
+   Schramka, A
+   Bauer, L
+   Aggarwal, V
+   Park, IY
+   Jacob, Z
+TI Poisson wavefront imaging in photon-starved scenarios
+SO JOURNAL OF THE OPTICAL SOCIETY OF AMERICA B-OPTICAL PHYSICS
+PY 2026
+DI 10.1364/JOSAB.580415
+UT WOS:001682853000002
+ER
+
+PT J
+AU Thang, NH
+   Hien, NC
+TI Environmental and energy applications of green-synthesized semiconductor
+   nanomaterials: from photocatalysis to smart sensors
+SO IONICS
+DE Photocatalysis; Solar cells; Semiconductor fuel cells; Gas sensors;
+   Environmental remediation; Artificial intelligence
+PY 2026
+DI 10.1007/s11581-025-06940-8
+UT WOS:001681967900001
+ER
+
+PT J
+AU Wang, ZH
+   Chen, XH
+   Lin, FF
+   Li, XZ
+   Wang, FZ
+   Guo, SN
+   Yu, SM
+   Li, L
+   Huang, JK
+TI Virtualization as a New Scaling Law for Semiconductor Devices Beyond
+   Geometric Scaling
+SO SMALL
+DE artificial intelligence; fabrication; machine learning; scaling law;
+   semiconductor devices
+PY 2026
+DI 10.1002/smll.202510426
+UT WOS:001700855200001
+ER
+
+PT J
+AU Zhang, H
+   Liu, R
+   Wang, XT
+   Li, YW
+TI Unified Fault Ride-Through Capability-Based Resilience-Aware Metrics for
+   Grid-Forming Inverter-Based Systems
+SO IEEE TRANSACTIONS ON POWER ELECTRONICS
+DE Inverters; Measurement; Power system stability; Grid forming;
+   Resilience; Voltage control; Circuit faults; Limiting; Reactive power;
+   Impedance; Fault ride-through (FRT); grid-forming (GFM) inverters;
+   quantification metric; resilience
+PY 2026
+DI 10.1109/TPEL.2025.3624687
+UT WOS:001649792300036
+ER
+
+PT J
+AU Farooq, MU
+   Jang, YJ
+TI Heterogeneous multi-agent fleet control system for material handling in
+   a Software-Defined Factory
+SO JOURNAL OF MANUFACTURING SYSTEMS
+DE Multi-agent control; Industry 4.0; Material handling; Industrial
+   manufacturing; Software-Defined Factory
+PY 2026
+DI 10.1016/j.jmsy.2026.01.005
+UT WOS:001695240100001
+ER
+
+PT J
+AU Kiatcharoenpol, T
+   Klongboonjit, S
+TI Integration of discriminant analysis with Artificial neural networks to
+   decision analytic framework for enhancing automated visual IC inspection
+   accuracy
+SO EXPERT SYSTEMS WITH APPLICATIONS
+DE LDA; ANN; Automated visual inspection; Integrated circuit; Accuracy;
+   Decision analytic
+PY 2026
+DI 10.1016/j.eswa.2026.131356
+UT WOS:001684593100001
+ER
+

@@ -1,0 +1,169 @@
+label	replace by
+industry 4.0	industry 5/4_0
+industry 4	industry 5/4_0
+industry 5.0	industry 5/4_0
+industry 5	industry 5/4_0
+smart manufacturing	industry 5/4_0
+industrial artificial intelligence	industry 5/4_0
+industrial visual monitoring (ivm)	industry 5/4_0
+industrial downtime prediction	industry 5/4_0
+industrial data space	industry 5/4_0
+industrial upgrading strategy	industry 5/4_0
+resilience industrial policy	industry 5/4_0
+digital economy	industry 5/4_0
+smart factory	industry 5/4_0
+circular economy	industrial ecology
+resource recovery	industrial ecology
+heat recovery	industrial ecology
+green recovery ability	industrial ecology
+recycled integrated circuits (ics)	industrial ecology
+sustainable wastewater treatment	industrial ecology
+artificial intelligence	AI
+artificial intelligence (ai)	AI
+virtual metrology (vm)	virtual metrology
+in-situ metrology	virtual metrology
+soft sensing	virtual metrology
+soft sensor	virtual metrology
+virtual inspection	virtual metrology
+intelligent measurement	virtual metrology
+smart stress sensing	virtual metrology
+smart fracture sensing and prediction	virtual metrology
+optical metrology	metrology
+metrology and inspection	metrology
+dimensional metrology	metrology
+industrial metrology	metrology
+semiconductor device measurement	metrology
+measurement	metrology
+optical variables measurement	metrology
+plasma measurements	metrology
+precision measurement	metrology
+voltage measurement	metrology
+fault diagnosis	fault detection
+faulty wafer detection	fault detection
+circuit faults	fault detection
+yield prediction	yield
+yield enhancement analytics	yield
+semiconductor yield	yield
+wafer yield prediction	yield
+yield improvement	yield
+yield-reliability relation	yield
+machine	machine learning
+learning	machine learning
+multitask learning deep belief network (mldbn)	deep learning
+domain adaptation	adaptation models
+heterogeneous domain adaptation	adaptation models
+self-adaptive production planning	adaptation models
+advanced process control	apc
+advanced process control (apc)	apc
+process control	apc
+process control systems	apc
+internal model control	apc
+model predictive control	apc
+run-to-run control (r2r)	apc
+model	models
+data models	models
+physical model	models
+product model	models
+modeling attack	models
+model-driven architecture	models
+mathematical models	math models
+gaussian mixture model (gmm)	math models
+gaussian process	math models
+microelectrostatics	math models
+panel threshold model	grey model
+stackelberg game model	grey model
+integrated circuit modeling	ic modeling
+SPICE model	ic modeling
+semiconductor device models	semiconductor device model
+semiconductor device modeling	semiconductor device model
+process models	process model
+process modeling	process model
+semiconductor process model	process model
+semiconductor process modeling	process model
+predictive models	prediction model
+quality prediction	prediction model
+power quality	quality
+quality management	quality
+energy efficiency	efficiency
+innovation efficiency	efficiency
+performance evaluation	performance
+performance assessment	performance
+financial performance	performance
+and governance (esg) performance	performance
+discrete-event simulation	simulation
+stimulated emission	simulation
+impedance spectroscopy numerical simulations	simulation
+multiscale simulation	simulation
+simulation experiments	simulation
+simulation-based optimization	simulation
+supply-chain simulation	simulation
+iso standards	standards
+ieee standard 1500	standards
+ieee standards	standards
+international organization for standardization	standards
+supply chain	supply chains
+semiconductor supply chain	supply chains
+iii-v semiconductor materials	supply chains
+semiconductor equipment	supply chains
+global manufacturing networks	supply chains
+international manufacturing networks	supply chains
+industrial chain	supply chains
+industrial chain cooperation	supply chains
+industrial chain resilience assessment	supply chains
+semiconductors	semiconductor
+manufacturing	fabrication
+semiconductor manufacturing	fabrication
+semiconductor manufacturing process	fabrication
+semiconductor device manufacture	fabrication
+semiconductor fabrication	fabrication
+wafer fab	fabrication
+wafer manufacturing	fabrication
+semiconductor manufacture	fabrication
+semiconductor manufacturing facilities	fabrication
+semiconductor manufacturing management	fabrication
+semiconductor wafer manufacturing system	fabrication
+tft-lcd manufacturing	fabrication
+remanufacturing	fabrication
+manufacturing flexibility	fabrication
+manufacturing strategy	fabrication
+industrial manufacturing	fabrication
+industrial materials	fabrication
+industrial tools	fabrication
+grid-connected inverters	inverters
+grid-forming (gfm) inverters	inverters
+multilevel inverter	inverters
+multilevel inverters	inverters
+power control	grid control
+reactive power	grid control
+improved instantaneous real and reactive power control strategy	grid control
+power system stability	grid control
+power amplifier (PA)	rf power systems
+high power fiber amplifier	rf power systems
+power added efficiency (pae)	rf power systems
+power-efficient RF transmitter	rf power systems
+hvdc	power conversion
+dc-dc converters	power conversion
+dc-ac converter	power conversion
+dc-dc converter	power conversion
+dc-dc power converters	power conversion
+hvdc transmission	power conversion
+security evaluation	security
+security measures	security
+hardware security	security
+cybersecurity	security
+ip piracy and ip security	security
+lightweight hardware-assisted security	security
+semiconductor supply-chain security	supply chain security
+economic security	supply chain security
+trade security	supply chain security
+training data	training
+feature extraction	feature engineering
+feature selection	feature engineering
+feature enhancement	feature engineering
+feature removal	feature engineering
+physically interpretable sensor features for vm	feature engineering
+sustainable development	sustainability
+sustainability assessments	sustainability
+sustainable and resilient operations	sustainability
+sustainable supply chain	sustainability
+sustainable supply chain risk management	sustainability

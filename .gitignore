@@ -1,0 +1,10 @@
+# Ignore raw data exports
+data/raw/*.txt
+data/raw/*.bib
+data/raw/*.csv
+data/raw/*.sav
+
+# Ignore R history and workspace
+.Rhistory
+.RData
+.Ruserdata

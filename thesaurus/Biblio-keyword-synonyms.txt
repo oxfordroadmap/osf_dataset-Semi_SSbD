@@ -1,0 +1,35 @@
+industry 5/4_0,industry 4.0;industry 4;industry 5.0;industry 5;smart manufacturing;industrial artificial intelligence;industrial visual monitoring (ivm);industrial downtime prediction;industrial data space;industrial upgrading strategy;resilience industrial policy;digital economy;smart factory
+industrial ecology,circular economy;resource recovery;heat recovery;green recovery ability;recycled integrated circuits (ics);sustainable wastewater treatment
+AI,artificial intelligence;artificial intelligence (ai)
+virtual metrology,virtual metrology (vm);in-situ metrology;soft sensing;soft sensor;virtual inspection;intelligent measurement;smart stress sensing;smart fracture sensing and prediction
+metrology,optical metrology;metrology and inspection;dimensional metrology;industrial metrology;semiconductor device measurement;measurement;optical variables measurement;plasma measurements;precision measurement;voltage measurement
+fault detection,fault diagnosis;faulty wafer detection;circuit faults
+yield,yield prediction;yield enhancement analytics;semiconductor yield;wafer yield prediction;yield improvement;yield-reliability relation
+machine learning,machine;learning
+deep learning,multitask learning deep belief network (mldbn);
+adaptation models,domain adaptation;heterogeneous domain adaptation;self-adaptive production planning
+apc,advanced process control;advanced process control (apc);process control;process control systems;internal model control;model predictive control;run-to-run control (r2r)
+models,model;data models;physical model;product model;modeling attack;model-driven architecture
+math models,mathematical models;gaussian mixture model (gmm);gaussian process;microelectrostatics
+grey model;panel threshold model;stackelberg game model
+ic modeling,integrated circuit modeling;SPICE model
+semiconductor device model,semiconductor device models;semiconductor device modeling
+process model,process models;process modeling;semiconductor process model;semiconductor process model;semiconductor process modeling
+prediction model,predictive models;quality prediction
+quality,power quality;quality management
+efficiency,energy efficiency;innovation efficiency
+performance,performance evaluation;performance assessment;financial performance;and governance (esg) performance
+simulation,discrete-event simulation;stimulated emission;impedance spectroscopy numerical simulations;multiscale simulation;simulation experiments;simulation-based optimization;supply-chain simulation
+standards,iso standards;ieee standard 1500;ieee standards;international organization for standardization
+supply chains,supply chain;semiconductor supply chain;iii-v semiconductor materials;semiconductor equipment;global manufacturing networks;international manufacturing networks;industrial chain;industrial chain cooperation;industrial chain resilience assessment
+semiconductor,semiconductors
+fabrication;manufacturing;semiconductor manufacturing;semiconductor manufacturing process;semiconductor device manufacture;semiconductor fabrication;wafer fab;wafer manufacturing;semiconductor manufacture;semiconductor manufacturing facilities;semiconductor manufacturing management;semiconductor wafer manufacturing system;tft-lcd manufacturing;remanufacturing;manufacturing flexibility;manufacturing strategy;industrial manufacturing;industrial materials;industrial tools
+inverters,grid-connected inverters;grid-forming (gfm) inverters;multilevel inverter;multilevel inverters
+grid control,power control;reactive power;improved instantaneous real and reactive power control strategy;power system stability
+rf power systems,power amplifier (PA);high power fiber amplifier;power added efficiency (pae);power-efficient RF transmitter
+power conversion,hvdc;dc-dc converters;dc-ac converter;dc-dc converter;dc-dc power converters;hvdc transmission
+security,security evaluation;security measures;hardware security;cybersecurity;ip piracy and ip security;lightweight hardware-assisted security
+supply chain security,semiconductor supply-chain security;economic security;trade security
+training,training data
+feature engineering,feature extraction;feature selection;feature enhancement;feature removal;physically interpretable sensor features for vm
+sustainability,sustainable development;sustainability assessments;sustainable and resilient operations;sustainable supply chain;sustainable supply chain risk management
